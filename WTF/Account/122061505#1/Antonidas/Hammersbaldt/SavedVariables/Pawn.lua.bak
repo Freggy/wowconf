@@ -1,0 +1,130 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0703,
+	["LastPlayerFullName"] = "Hammersbaldt-Antonidas",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 142304,
+			["Level"] = 304,
+			["Link"] = "|cffa335ee|Hitem:142304::::::::60:65::35:9:7359:8258:8765:8136:8116:6652:7578:3183:6646::::::|h[Bestialische Eisenmaske]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 186379,
+			["Level"] = 311,
+			["Link"] = "|cffa335ee|Hitem:186379::::::::60:65::92:5:8762:6652:7579:1550:6646::::::|h[Interplanarer Schlüsselstein]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 186349,
+			["Level"] = 298,
+			["Link"] = "|cffa335ee|Hitem:186349::::::::60:65::91:6:8764:6652:8118:8117:1537:6646:1:28:2044:::::|h[Spitzen der gebrochenen Hoffnung]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 182987,
+			["Level"] = 304,
+			["Link"] = "|cffa335ee|Hitem:182987::::::::60:65::92:6:8759:6652:8132:8116:1576:6646:1:28:753:::::|h[Brustplatte der behutsamen Berechnung]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 171418,
+			["Level"] = 291,
+			["Link"] = "|cffff8000|Hitem:171418::::::::60:70::69:7:8125:7882:8156:6649:6650:1588:6935:1:28:2142:::::|h[Einigkeit]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 171416,
+			["Level"] = 291,
+			["Link"] = "|cffff8000|Hitem:171416::::::::60:70::69:6:7067:7882:8156:6649:6648:1588:1:28:2142:::::|h[Sturm des Lichtbringers]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 171413,
+			["Level"] = 291,
+			["Link"] = "|cffff8000|Hitem:171413::::::::60:70::63:6:7054:6649:6650:8156:7882:1588::::::|h[Jagdtracht des Wahnsinnigen Paragons]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 142198,
+			["Level"] = 304,
+			["Link"] = "|cffa335ee|Hitem:142198::::::::60:65::35:9:7359:8286:8765:8136:8138:6652:7579:3183:6646::::::|h[Ungewöhnlich gelenkige Handgelenksschützer]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 188928,
+			["Level"] = 304,
+			["Link"] = "|cffa335ee|Hitem:188928::::::::60:65::92:5:6652:8759:8095:8154:1524::::::|h[Stulpen des strahlenden Reiters]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 169159,
+			["Level"] = 304,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cffa335ee|Hitem:169159::::::::60:65::35:7:7359:6652:7579:8286:8765:3155:6646::::::|h[Übertaktendes Bitband]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 169159,
+			["Level"] = 304,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cffa335ee|Hitem:169159::::::::60:70::35:7:7359:6652:7579:8286:8765:3155:6646::::::|h[Übertaktendes Bitband]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 190958,
+			["Level"] = 288,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cffa335ee|Hitem:190958::::::::60:65::33:6:8267:8765:7359:6652:1605:6646:1:28:1279:::::|h[So'leahs Geheimtechnik]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 190958,
+			["Level"] = 288,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cffa335ee|Hitem:190958::::::::60:70::33:6:8267:8765:7359:6652:1605:6646:1:28:1279:::::|h[So'leahs Geheimtechnik]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 183034,
+			["Level"] = 304,
+			["Link"] = "|cffa335ee|Hitem:183034::::::::60:65::92:6:8759:6652:8132:8138:1576:6646:1:28:2422:::::|h[Fledermausflügelumhang mit Kapuze]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 186410,
+			["Level"] = 311,
+			["Link"] = "|cffa335ee|Hitem:186410::::::::60:65::92:6:8762:7733:7734:7735:1550:6646::::::|h[Jaithys die Gefängnisklinge]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 110057,
+			["Level"] = 294,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cffa335ee|Hitem:110057:6229:::::::60:65::33:6:7359:6652:8765:8241:3179:6646:1:28:1279:::::|h[Geistbrecherszepter]|h|r",
+		}, -- [17]
+	},
+	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[128823] = {
+			["Relics"] = {
+				{
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["Type"] = "Life",
+				}, -- [2]
+				{
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Die Silberne Hand",
+		},
+		[128866] = {
+			["Relics"] = {
+				{
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["Type"] = "Iron",
+				}, -- [2]
+				{
+					["Type"] = "Arcane",
+				}, -- [3]
+			},
+			["Name"] = "Der Wahrheitshüter",
+		},
+	},
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PALADIN",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

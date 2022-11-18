@@ -1,0 +1,130 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0405,
+	["LastPlayerFullName"] = "Gottwalt-Arthas",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 166565,
+			["Level"] = 465,
+			["Link"] = "|cffa335ee|Hitem:166565::::::::120:65::23:5:5845:1577:4786:6508:4775:::|h[Gesichtsschutz des Wächterinnenregiments]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 158075,
+			["Level"] = 499,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:4932:4933:6316:1636:::|h[Herz von Azeroth]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 174165,
+			["Level"] = 450,
+			["Link"] = "|cffa335ee|Hitem:174165::::::::120:65::3:5:4822:1487:4786:6506:4775:::|h[Zuckende Schiftung des Wahnsinns]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 173454,
+			["Level"] = 435,
+			["Link"] = "|cffa335ee|Hitem:173454::::::::120:65::29:4:1487:4786:6501:4775:::|h[Brustplatte des heimtückischen Leviathans]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 174171,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:174171::::::::120:65::3:6:4822:1808:6516:6515:1487:4786:::|h[Dunkler kristalliner Gurt]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 173486,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:173486::::::::120:65::29:6:6412:4803:6513:6516:1502:4786:::|h[Beinplatten des heimtückischen Leviathans]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 169055,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:169055::::::::120:65::23:5:4779:6516:6515:1487:4786:::|h[Schienbeinschützer des Säurewiderstands]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 158359,
+			["Level"] = 470,
+			["Link"] = "|cffa335ee|Hitem:158359::::::::120:65::35:7:6530:6578:6579:6566:6515:1642:4786:::|h[Steinzornunterarmschienen]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 174178,
+			["Level"] = 455,
+			["Link"] = "|cffa335ee|Hitem:174178::::::::120:65::3:6:4822:6578:6515:1487:4786:6516:::|h[Handschuhe des Trugbildwirkers]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 175008,
+			["Level"] = 460,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cffa335ee|Hitem:175008::::::::120:65::5:5:4823:6516:6513:1502:4786:::|h[Band des lauernden Intriganten]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 174530,
+			["Level"] = 445,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cffa335ee|Hitem:174530::::::::120:65::3:5:4822:6516:6515:1487:4786:::|h[Ring des kollektiven Bewusstseins]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 133304,
+			["Level"] = 425,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff0070dd|Hitem:133304::::::::120:65:512:22:2:6424:6652:120:::|h[Schattensturm]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 169344,
+			["Level"] = 120,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cffa335ee|Hitem:169344::::::::50:65::16:4:6536:6515:1514:4786:1:28:464:::|h[Geniale Manabatterie]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 169223,
+			["Level"] = 480,
+			["Link"] = "|cffff8000|Hitem:169223::::::::120:65::11:2:6277:1472:::|h[Ashjra'kamas, Tuch der Entschlossenheit]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 172198,
+			["Level"] = 445,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cffa335ee|Hitem:172198::::::::120:65::3:7:4822:6570:6578:6579:1487:4786:6513:::|h[Mar'kowa, Durchbohrer der Gedanken]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 127254,
+			["Level"] = 425,
+			["Link"] = "|cff0070dd|Hitem:127254::::::::120:65:512:22:2:6424:6652:120:::|h[Schild der Leere]|h|r",
+		}, -- [17]
+	},
+	["LastKeybindingsSet"] = 1,
+	["Artifacts"] = {
+		[120978] = {
+			["Relics"] = {
+				{
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["Type"] = "Fire",
+				}, -- [2]
+				{
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Aschenbringer",
+		},
+		[128823] = {
+			["Relics"] = {
+				{
+					["Type"] = "Holy",
+				}, -- [1]
+				{
+					["Type"] = "Life",
+				}, -- [2]
+				{
+					["Type"] = "Holy",
+				}, -- [3]
+			},
+			["Name"] = "Die Silberne Hand",
+		},
+	},
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PALADIN",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

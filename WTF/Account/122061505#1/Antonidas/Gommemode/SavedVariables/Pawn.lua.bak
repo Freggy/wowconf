@@ -1,0 +1,96 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0703,
+	["LastPlayerFullName"] = "Gommemode-Antonidas",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 122248,
+			["Level"] = 58,
+			["Link"] = "|cff00ccff|Hitem:122248::::::::49:268:::::::::|h[Befleckte Kappe der Schattenkunst]|h|r",
+		}, -- [1]
+		nil, -- [2]
+		{
+			["ID"] = 175286,
+			["Level"] = 32,
+			["Link"] = "|cff0070dd|Hitem:175286::::::::27:268::25:1:4813:2:28:189:9:27:::::|h[Schulterpolster der Jambani]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 175369,
+			["Level"] = 45,
+			["Link"] = "|cff0070dd|Hitem:175369::::::::38:268::25:1:4813:2:28:190:9:38:::::|h[Weste des Ritualschinders]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 158967,
+			["Level"] = 49,
+			["Link"] = "|cff1eff00|Hitem:158967::::::::43:268::11:1:4790:2:28:190:9:43:::::|h[Gürtelbund des Ritualschinders]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 158994,
+			["Level"] = 59,
+			["Link"] = "|cff0070dd|Hitem:158994::::::::49:268::11:2:4793:4794:2:28:190:9:49:::::|h[Beinwickel des Ritualschinders]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 159347,
+			["Level"] = 55,
+			["Link"] = "|cff0070dd|Hitem:159347::::::::48:268::19:2:4776:6515:2:28:500:9:48:::::|h[Moosbewachsene Flügelkappenschuhe]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 159041,
+			["Level"] = 56,
+			["Link"] = "|cff1eff00|Hitem:159041::::::::48:268::11:1:4790:2:28:190:9:48:::::|h[Armbinden des Ritualschinders]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 158983,
+			["Level"] = 59,
+			["Link"] = "|cff0070dd|Hitem:158983::::::::50:268::11:2:4793:4794:2:28:190:9:50:::::|h[Handschutz des Ritualschinders]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 160985,
+			["Level"] = 57,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff0070dd|Hitem:160985::::::::50:268::19:2:4776:4802:2:28:190:9:50:::::|h[Glompschlunds Ring]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 162548,
+			["Level"] = 55,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff0070dd|Hitem:162548::::::::49:268::19:2:4776:6515:2:28:500:9:48:::::|h[Dorngewebtes Band]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 159077,
+			["Level"] = 58,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff1eff00|Hitem:159077::::::::49:268::11:1:4790:2:28:190:9:49:::::|h[Tickers Ersatzkatalysator]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 159077,
+			["Level"] = 58,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff1eff00|Hitem:159077::::::::50:268::11:1:4790:2:28:190:9:49:::::|h[Tickers Ersatzkatalysator]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 122261,
+			["Level"] = 58,
+			["Link"] = "|cff00ccff|Hitem:122261::::::::49:268:::1:3592::::::|h[Geerbtes Cape des Schwarzen Barons]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 159576,
+			["Level"] = 57,
+			["Link"] = "|cff1eff00|Hitem:159576::::::::49:268:::3:6655:40:1690:2:28:706:9:49:::::|h[Kriegsstab der goldenen Flotte des Feuersturms]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 160969,
+			["Level"] = 40,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cff0070dd|Hitem:160969::::::::35:268::18:1:4776:2:28:190:9:35:::::|h[Klinge des wiederbelebten Nekromanten]|h|r",
+		}, -- [17]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "MONK",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

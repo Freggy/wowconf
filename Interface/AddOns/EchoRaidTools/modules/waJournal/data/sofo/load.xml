@@ -1,0 +1,14 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+	<Script file="bars.lua"/>
+	<Script file="bars-important.lua"/>
+	<Script file="bomb-helper.lua"/>
+	<Script file="glows.lua"/>
+	<Script file="icons.lua"/>
+	<Script file="icons-high-prio.lua"/>
+	<Script file="notebook.lua"/>
+	<Script file="priority-lists.lua"/>
+	<Script file="volatile-chrages.lua"/>
+
+	<Include file="singles\load.xml"/>
+</Ui>

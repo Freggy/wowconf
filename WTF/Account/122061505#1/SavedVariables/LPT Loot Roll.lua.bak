@@ -1,0 +1,24 @@
+
+llrSettings = {
+	["masterLooter"] = "",
+	["historyLength"] = 20,
+	["assistMode"] = false,
+	["leadMode"] = false,
+	["offRoll"] = 50,
+	["leaderScale"] = 1,
+	["mainRoll"] = 100,
+	["saveMode"] = false,
+	["whisperListener"] = false,
+	["eventMode"] = false,
+	["scrollMode"] = false,
+	["lootListener"] = false,
+	["masterLooterMode"] = false,
+	["whisperNotificationMode"] = false,
+	["userScale"] = 1,
+	["itemListScale"] = 1,
+	["mogRoll"] = 25,
+}
+rollHistoryDB = {
+	["rollHistory"] = {
+	},
+}

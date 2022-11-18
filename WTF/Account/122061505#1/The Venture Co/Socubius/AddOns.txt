@@ -1,0 +1,5 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+Bartender4: enabled
+ElvUI: disabled
+ElvUI_OptionsUI: disabled

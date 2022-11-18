@@ -1,0 +1,34 @@
+VER 3 0100000000000007 "comb" "INV_MISC_QUESTIONMARK"
+#showtooltip Einäschern
+/use 13
+/cast Einäschern
+END
+VER 3 0100000000000001 "feuerschlag" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Feuerschlag
+END
+VER 3 0100000000000003 "flammenstoß" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@cursor] Flammenstoß
+END
+VER 3 0100000000000006 "odem" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Drachenodem
+END
+VER 3 0100000000000004 "phoenix" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Phönixflammen
+END
+VER 3 0100000000000002 "pyroschlag" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast Pyroschlag
+END
+VER 3 0100000000000005 "versengen" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Versengen
+END

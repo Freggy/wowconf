@@ -1,0 +1,66 @@
+VER 3 0100000000000007 "aufopferung" "135966"
+/cast [@mouseover,help,nodead][help,nodead][@player]Segen der Aufopferung
+END
+VER 3 0100000000000010 "bestow" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][exists,nodead][@player]Zuversicht verleihen
+END
+VER 3 010000000000000F "Buße" "135942"
+#showtooltip
+/script SetRaidTarget("target", 4);
+/cast Buße
+END
+VER 3 0100000000000002 "flash" "135907"
+/cast [@mouseover,help,nodead][help,nodead][@player]Lichtblitz
+END
+VER 3 0100000000000009 "freiheit" "135968"
+/cast [@mouseover,help,nodead][help,nodead][@player]Segen der Freiheit
+END
+VER 3 010000000000000B "glocke" "3565448"
+#showtooltip
+/stopcasting
+/cast Herrschaft des Gesetzes
+/cast [@mouseover,help,nodead][exists,nodead][@player]Göttlicher Glockenschlag
+END
+VER 3 0100000000000003 "hand" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Handauflegung
+END
+VER 3 0100000000000005 "herrlichkeit" "133192"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Wort der Herrlichkeit
+END
+VER 3 0100000000000001 "holyshock" "135972"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Heiliger Schock
+END
+VER 3 0100000000000006 "licht" "135981"
+#showtooltip
+/cast [@mouseover,help,nodead][exists,nodead][@player]Heiliges Licht
+END
+VER 3 0100000000000008 "licht des märtyr" "1360762"
+/cast [@mouseover,help,nodead][help,nodead][@player]Licht des Märtyrers
+END
+VER 3 010000000000000C "light/range" "132874"
+/cast [@mouseover] Heiliges Prisma
+END
+VER 3 010000000000000A "läutern" "135949"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Läuterung
+END
+VER 3 0100000000000011 "op" "644389"
+#/use Wildheitsabzeichen des sündigen Aspiranten
+/cast Herrschaft des Gesetzes
+/cast Heiliger Rächer
+/cast Zornige Vergeltung
+/use Trank der Spektralintelligenz
+END
+VER 3 0100000000000004 "segen" "135964"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Segen des Schutzes
+END

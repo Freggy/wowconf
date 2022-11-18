@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: Simple Boss Frame
+## Version: 9.0.7
+## Author: Jaijai
+## OptionalDeps: LibSharedMedia-3.0
+## SavedVariables: SimpleBossFrameDB
+SimpleBossFrame.lua

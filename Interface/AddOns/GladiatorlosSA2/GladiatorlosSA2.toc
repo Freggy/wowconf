@@ -1,0 +1,20 @@
+﻿## Interface: 100000
+## Title: GladiatorlosSA
+## Notes: PvP Sound Alerter
+## Author: xGrit
+## SavedVariables: GladiatorlosSADB
+## Version: DFB1
+
+embeds.xml
+Locales\locales.xml
+
+GladiatorlosSA2.lua
+spelllist.lua
+options.lua
+
+ClassicEra\options_TBC.lua
+ClassicEra\spelllist_TBC.lua
+ClassicEra\options_WLK.lua
+ClassicEra\spelllist_WLK.lua
+ClassicEra\options_SL.lua
+ClassicEra\spelllist_SL.lua

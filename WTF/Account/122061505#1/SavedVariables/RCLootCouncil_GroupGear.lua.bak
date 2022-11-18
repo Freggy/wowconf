@@ -1,0 +1,18 @@
+
+RCGroupGearDB = {
+	["profileKeys"] = {
+		["Auur - Antonidas"] = "Default",
+		["Staalberg - Antonidas"] = "Default",
+		["Gommemode - Antonidas"] = "Default",
+		["Námo - Antonidas"] = "Default",
+		["Aragaan - Antonidas"] = "Default",
+		["Nuath - Antonidas"] = "Default",
+		["Kuumuu - Antonidas"] = "Default",
+		["Hammersbaldt - Antonidas"] = "Default",
+		["Uud - Antonidas"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

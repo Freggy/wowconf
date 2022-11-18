@@ -1,0 +1,54 @@
+bind BUTTON3 TOGGLEAUTORUN
+bind A CLICK BT4Button61:LeftButton
+bind LEFT NONE
+bind D CLICK BT4Button63:LeftButton
+bind Q TURNLEFT
+bind E TURNRIGHT
+bind NUMPAD0 NONE
+bind NUMLOCK NONE
+bind BUTTON4 CLICK BT4Button65:LeftButton
+bind R CLICK BT4Button69:LeftButton
+bind SHIFT-R NONE
+bind 1 CLICK BT4Button13:LeftButton
+bind 2 CLICK BT4Button14:LeftButton
+bind 3 CLICK BT4Button15:LeftButton
+bind 4 CLICK BT4Button16:LeftButton
+bind 5 CLICK BT4Button17:LeftButton
+bind 6 NONE
+bind 7 NONE
+bind 8 NONE
+bind 9 NONE
+bind 0 NONE
+bind ß NONE
+bind ALT-1 CLICK BT4Button23:LeftButton
+bind ALT-2 CLICK BT4Button97:LeftButton
+bind ALT-3 CLICK BT4Button98:LeftButton
+bind ALT-4 NONE
+bind CTRL-1 CLICK BT4Button18:LeftButton
+bind CTRL-2 CLICK BT4Button19:LeftButton
+bind CTRL-3 CLICK BT4Button20:LeftButton
+bind CTRL-4 CLICK BT4Button21:LeftButton
+bind CTRL-5 NONE
+bind F2 CLICK BT4Button50:LeftButton
+bind F3 CLICK BT4Button51:LeftButton
+bind F4 CLICK BT4Button52:LeftButton
+bind G CLICK BT4Button22:LeftButton
+bind F CLICK BT4Button68:LeftButton
+bind CTRL-V CLICK BT4Button72:LeftButton
+bind H NONE
+bind CTRL-S NONE
+bind CTRL-R CLICK BT4Button66:LeftButton
+bind SHIFT-1 ACTIONBUTTON6
+bind SHIFT-2 ACTIONBUTTON7
+bind SHIFT-3 ACTIONBUTTON8
+bind SHIFT-F ACTIONBUTTON9
+bind T CLICK BT4Button24:LeftButton
+bind [ PAWN_COMPARE_LEFT
+bind ] PAWN_COMPARE_RIGHT
+bind CTRL-A CLICK BT4Button62:LeftButton
+bind CTRL-D CLICK BT4Button64:LeftButton
+bind CTRL-F CLICK BT4Button67:LeftButton
+bind BUTTON5 CLICK BT4Button70:LeftButton
+bind CTRL-C CLICK BT4Button71:LeftButton
+bind CTRL-B CLICK BT4Button49:LeftButton
+bind CTRL-BUTTON5 CLICK BT4Button53:LeftButton

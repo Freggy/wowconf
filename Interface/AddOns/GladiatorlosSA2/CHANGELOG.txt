@@ -1,0 +1,10 @@
+https://www.curseforge.com/wow/addons/gladiatorlossa2
+https://github.com/Rhykes/GladiatorlosSA2
+===========================================
+- version DFB1 (Dragonflight)
+
+First Dragonflight update.
+
+Evokers are complete. Other classes remain a WIP. Please report new spells that
+you believe should be added to the list, or point out spells that no longer seem 
+to be functioning correctly. Thanks! 

@@ -1,0 +1,31 @@
+VER 3 0100000000000005 "kette" "INV_MISC_QUESTIONMARK"
+#showtooltipl
+/cast [@mouseover,help,nodead][exists,nodead][@player]Kettenheilung
+END
+VER 3 0100000000000001 "reinigung" "INV_MISC_QUESTIONMARK"
+#showtooltipl
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Geistreinigung
+END
+VER 3 0100000000000006 "schuilkd" "INV_MISC_QUESTIONMARK"
+#showtooltipl
+/cast [@mouseover,help,nodead][exists,nodead][@player]Erdschild
+END
+VER 3 0100000000000002 "spring" "INV_MISC_QUESTIONMARK"
+#showtooltipl
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Springflut
+END
+VER 3 0100000000000007 "urzeitlich" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Urzeitliche Welle(Nekrolords)
+END
+VER 3 0100000000000003 "welle" "INV_MISC_QUESTIONMARK"
+#showtooltipl
+/cast [@mouseover,help,nodead][exists,nodead][@player]Welle der Heilung
+END
+VER 3 0100000000000004 "woge" "INV_MISC_QUESTIONMARK"
+#showtooltipl
+/cast [@mouseover,help,nodead][exists,nodead][@player]Heilende Woge
+END

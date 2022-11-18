@@ -1,0 +1,16 @@
+lightweight tag d076e03e32e93e4e8d66b60adcd2a471f1d4e08f v202202211543
+Author:	Jah Raphael <jahraphael@yahoo.com>
+Date:	Mon Feb 21 17:09:53 2022 +0000
+
+commit d076e03e32e93e4e8d66b60adcd2a471f1d4e08f
+Author: Jah Raphael <jahraphael@yahoo.com>
+Date:   Mon Feb 21 17:09:53 2022 +0000
+
+    [Raider.IO] Database Refresh
+
+commit a6da55829c34fc77c1f2049405e334d0b5663c78
+Author: WFrancois <wroblewski.francois@gmail.com>
+Date:   Sun Feb 20 17:59:59 2022 +0100
+
+    add guild to lootentry
+

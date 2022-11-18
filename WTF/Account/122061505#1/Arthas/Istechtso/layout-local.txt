@@ -1,0 +1,8 @@
+Version: 1
+Frame: DetailsNewsWindow
+FrameLevel: 1
+Anchor: CENTER
+X: -3
+Y: -43
+W: 512
+H: 512

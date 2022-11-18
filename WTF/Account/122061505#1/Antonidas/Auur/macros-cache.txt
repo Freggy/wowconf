@@ -1,0 +1,32 @@
+VER 3 0100000000000003 "euphorie" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Euphorie
+END
+VER 3 0100000000000006 "glanz" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][exists,nodead][@player]Machtwort: Glanz
+END
+VER 3 0100000000000001 "läutern" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Läutern
+END
+VER 3 0100000000000005 "schattenheiliung" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][exists,nodead][@player]Schattenheilung
+END
+VER 3 0100000000000004 "schild" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Machtwort: Schild
+END
+VER 3 0100000000000007 "schmerzunterdrüc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Schmerzunterdrückung
+END
+VER 3 0100000000000002 "sühne" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead][exists,nodead][@player]Sühne
+END

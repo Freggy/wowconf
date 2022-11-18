@@ -1,0 +1,3034 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 0,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["combatId"] = 187,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 2632,
+							["totalabsorbed"] = 0.003466,
+							["aID"] = "25294",
+							["damage_from"] = {
+								["Schlachtwache des Kriegshymnenklans"] = true,
+							},
+							["targets"] = {
+								["Alphons"] = 89,
+								["Schlachtwache des Kriegshymnenklans"] = 872,
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["timeMachine"] = 22,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 961.003466,
+							["monster"] = true,
+							["dps_started"] = true,
+							["total"] = 961.003466,
+							["on_hold"] = true,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Netzfürst der Nerub'ar",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 35,
+										["g_amt"] = 0,
+										["n_max"] = 271,
+										["targets"] = {
+											["Alphons"] = 89,
+											["Schlachtwache des Kriegshymnenklans"] = 513,
+										},
+										["n_dmg"] = 567,
+										["n_min"] = 18,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 602,
+										["c_max"] = 35,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 35,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[50283] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 359,
+										["targets"] = {
+											["Schlachtwache des Kriegshymnenklans"] = 359,
+										},
+										["n_dmg"] = 359,
+										["n_min"] = 359,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 359,
+										["c_max"] = 0,
+										["id"] = 50283,
+										["r_dmg"] = 0,
+										["spellschool"] = 8,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3767-571-277-25294-000022ACAB",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1646441761,
+							["damage_taken"] = 224.003466,
+							["start_time"] = 1646441691,
+							["delay"] = 1646441761,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008009,
+							["damage_from"] = {
+								["Netzfürst der Nerub'ar"] = true,
+								["Huscher der Nerub'ar"] = true,
+							},
+							["targets"] = {
+							},
+							["on_hold"] = false,
+							["pets"] = {
+							},
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008009,
+							["aID"] = "3686-09B7BD1F",
+							["dps_started"] = false,
+							["total"] = 0.008009,
+							["classe"] = "WARLOCK",
+							["serial"] = "Player-3686-09B7BD1F",
+							["nome"] = "Alphons",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["end_time"] = 1646441697,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 150.008009,
+							["start_time"] = 1646441697,
+							["delay"] = 0,
+							["last_event"] = 0,
+						}, -- [2]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.005871,
+							["aID"] = "24566",
+							["damage_from"] = {
+								["Schlachtwache des Kriegshymnenklans"] = true,
+							},
+							["targets"] = {
+								["Alphons"] = 61,
+								["Schlachtwache des Kriegshymnenklans"] = 1240,
+							},
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["timeMachine"] = 21,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 1301.005871,
+							["monster"] = true,
+							["dps_started"] = true,
+							["total"] = 1301.005871,
+							["on_hold"] = true,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Huscher der Nerub'ar",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 256,
+										["targets"] = {
+											["Alphons"] = 61,
+											["Schlachtwache des Kriegshymnenklans"] = 761,
+										},
+										["n_dmg"] = 822,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 822,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 7,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[49749] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 479,
+										["targets"] = {
+											["Schlachtwache des Kriegshymnenklans"] = 479,
+										},
+										["n_dmg"] = 479,
+										["n_min"] = 479,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 479,
+										["c_max"] = 0,
+										["id"] = 49749,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3767-571-277-24566-000022ACC2",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1646441742,
+							["damage_taken"] = 239.005871,
+							["start_time"] = 1646441691,
+							["delay"] = 1646441742,
+							["tipo"] = 1,
+						}, -- [3]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 187,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 187,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 187,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["grupo"] = true,
+							["nome"] = "Alphons",
+							["buff_uptime"] = 6,
+							["pets"] = {
+							},
+							["classe"] = "WARLOCK",
+							["last_event"] = 1646441697,
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 6,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3686-09B7BD1F",
+							["aID"] = "3686-09B7BD1F",
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 187,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Alphons"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Alphons", -- [1]
+				},
+				["tempo_start"] = 1646441691,
+				["last_events_tables"] = {
+					{
+						{
+							{
+								true, -- [1]
+								1, -- [2]
+								18, -- [3]
+								1646441692.114, -- [4]
+								144, -- [5]
+								"Netzfürst der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [1]
+							{
+								true, -- [1]
+								1, -- [2]
+								15, -- [3]
+								1646441692.114, -- [4]
+								126, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [2]
+							{
+								true, -- [1]
+								1, -- [2]
+								18, -- [3]
+								1646441694.149, -- [4]
+								111, -- [5]
+								"Netzfürst der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [3]
+							{
+								true, -- [1]
+								1, -- [2]
+								13, -- [3]
+								1646441694.149, -- [4]
+								93, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [4]
+							{
+								true, -- [1]
+								1, -- [2]
+								35, -- [3]
+								1646441696.149, -- [4]
+								80, -- [5]
+								"Netzfürst der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								true, -- [11]
+								false, -- [12]
+							}, -- [5]
+							{
+								true, -- [1]
+								1, -- [2]
+								16, -- [3]
+								1646441696.149, -- [4]
+								45, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [6]
+							{
+								true, -- [1]
+								1, -- [2]
+								18, -- [3]
+								1646441698.202, -- [4]
+								29, -- [5]
+								"Netzfürst der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [7]
+							{
+								true, -- [1]
+								1, -- [2]
+								17, -- [3]
+								1646441698.202, -- [4]
+								29, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [8]
+							{
+								3, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0, -- [4]
+								0, -- [5]
+								"Alphons", -- [6]
+							}, -- [9]
+						}, -- [1]
+						1646441698.202, -- [2]
+						"Alphons", -- [3]
+						"WARLOCK", -- [4]
+						140, -- [5]
+						"0m 6s", -- [6]
+						["dead_at"] = 6.087999999988824,
+						["dead"] = true,
+					}, -- [1]
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 204,
+				["playing_solo"] = true,
+				["totals"] = {
+					2261.965797, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 1,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 1,
+					}, -- [4]
+				},
+				["frags_need_refresh"] = true,
+				["instance_type"] = "none",
+				["data_fim"] = "01:54:58",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Netzfürst der Nerub'ar",
+				["TotalElapsedCombatTime"] = 660319.305,
+				["CombatEndedAt"] = 660319.305,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Alphons"] = 0.008009,
+						}, -- [1]
+					},
+				},
+				["end_time"] = 660319.305,
+				["combat_id"] = 187,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["overall_added"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["player_last_events"] = {
+				},
+				["data_inicio"] = "01:54:52",
+				["CombatSkillCache"] = {
+				},
+				["frags"] = {
+					["Schütze des Kriegshymnenklans"] = 4,
+				},
+				["start_time"] = 660313.2170000001,
+				["TimeData"] = {
+				},
+				["contra"] = "Netzfürst der Nerub'ar",
+			}, -- [1]
+			{
+				{
+					["combatId"] = 186,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.003564,
+							["aID"] = "24566",
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Alphons"] = 184,
+							},
+							["end_time"] = 1646441657,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 184.003564,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 184.003564,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Huscher der Nerub'ar",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 19,
+										["targets"] = {
+											["Alphons"] = 155,
+										},
+										["n_dmg"] = 155,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 11,
+										["total"] = 155,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["MISS"] = 1,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 10,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[49749] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 29,
+										["targets"] = {
+											["Alphons"] = 29,
+										},
+										["n_dmg"] = 29,
+										["n_min"] = 29,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 29,
+										["c_max"] = 0,
+										["id"] = 49749,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3767-571-277-24566-000022AC6E",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1646441689,
+							["damage_taken"] = 0.003564,
+							["start_time"] = 1646441649,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.001665,
+							["damage_from"] = {
+								["Huscher der Nerub'ar"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001665,
+							["on_hold"] = false,
+							["end_time"] = 1646441657,
+							["dps_started"] = false,
+							["total"] = 0.001665,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["nome"] = "Alphons",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["aID"] = "3686-09B7BD1F",
+							["serial"] = "Player-3686-09B7BD1F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 0,
+							["damage_taken"] = 184.001665,
+							["start_time"] = 1646441657,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 186,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["combatId"] = 186,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["combatId"] = 186,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["buff_uptime_targets"] = {
+							},
+							["grupo"] = true,
+							["nome"] = "Alphons",
+							["buff_uptime"] = 8,
+							["pets"] = {
+							},
+							["classe"] = "WARLOCK",
+							["last_event"] = 1646441657,
+							["tipo"] = 4,
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["serial"] = "Player-3686-09B7BD1F",
+							["aID"] = "3686-09B7BD1F",
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Huscher der Nerub'ar",
+							["flag_original"] = 2632,
+							["spell_cast"] = {
+								[49749] = 1,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3767-571-277-24566-000022AC65",
+							["aID"] = "24566",
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 186,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Alphons"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Alphons", -- [1]
+				},
+				["CombatStartedAt"] = 660310.794,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+					{
+						{
+							{
+								true, -- [1]
+								1, -- [2]
+								17, -- [3]
+								1646441649.342, -- [4]
+								180, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [1]
+							{
+								true, -- [1]
+								1, -- [2]
+								15, -- [3]
+								1646441651.416, -- [4]
+								163, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [2]
+							{
+								true, -- [1]
+								1, -- [2]
+								16, -- [3]
+								1646441651.732, -- [4]
+								148, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [3]
+							{
+								true, -- [1]
+								1, -- [2]
+								19, -- [3]
+								1646441653.345, -- [4]
+								132, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [4]
+							{
+								true, -- [1]
+								1, -- [2]
+								16, -- [3]
+								1646441653.73, -- [4]
+								113, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [5]
+							{
+								true, -- [1]
+								1, -- [2]
+								15, -- [3]
+								1646441655.342, -- [4]
+								97, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [6]
+							{
+								true, -- [1]
+								1, -- [2]
+								14, -- [3]
+								1646441655.735, -- [4]
+								82, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [7]
+							{
+								true, -- [1]
+								1, -- [2]
+								14, -- [3]
+								1646441657.389, -- [4]
+								68, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [8]
+							{
+								true, -- [1]
+								1, -- [2]
+								13, -- [3]
+								1646441657.649, -- [4]
+								54, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [9]
+							{
+								true, -- [1]
+								49749, -- [2]
+								29, -- [3]
+								1646441657.649, -- [4]
+								25, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [10]
+							{
+								true, -- [1]
+								1, -- [2]
+								16, -- [3]
+								1646441658.071, -- [4]
+								25, -- [5]
+								"Huscher der Nerub'ar", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								4, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [11]
+							{
+								3, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0, -- [4]
+								0, -- [5]
+								"Alphons", -- [6]
+							}, -- [12]
+						}, -- [1]
+						1646441658.071, -- [2]
+						"Alphons", -- [3]
+						"WARLOCK", -- [4]
+						180, -- [5]
+						"0m 8s", -- [6]
+						["dead_at"] = 8.728999999933876,
+						["dead"] = true,
+					}, -- [1]
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 203,
+				["playing_solo"] = true,
+				["totals"] = {
+					183.9900029999999, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 1,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["data_fim"] = "01:54:18",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Huscher der Nerub'ar",
+				["TotalElapsedCombatTime"] = 660279.174,
+				["CombatEndedAt"] = 660279.174,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "01:54:09",
+				["end_time"] = 660279.174,
+				["combat_id"] = 186,
+				["tempo_start"] = 1646441649,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 1,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Alphons"] = 0.001665,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 660270.4450000001,
+				["contra"] = "Huscher der Nerub'ar",
+				["TimeData"] = {
+				},
+			}, -- [2]
+			{
+				{
+					["combatId"] = 185,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.008764,
+							["damage_from"] = {
+								["Blutsporenfeuerteufel"] = true,
+							},
+							["targets"] = {
+								["Blutsporenfeuerteufel"] = 43,
+							},
+							["pets"] = {
+							},
+							["aID"] = "3686-09B7BD1F",
+							["classe"] = "WARLOCK",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 43.008764,
+							["on_hold"] = false,
+							["end_time"] = 1646441584,
+							["dps_started"] = false,
+							["total"] = 43.008764,
+							["friendlyfire"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["nome"] = "Alphons",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									[127802] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1,
+										["targets"] = {
+											["Blutsporenfeuerteufel"] = 2,
+										},
+										["n_dmg"] = 2,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 2,
+										["c_max"] = 0,
+										["id"] = 127802,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[980] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1,
+										["targets"] = {
+											["Blutsporenfeuerteufel"] = 12,
+										},
+										["n_dmg"] = 12,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 12,
+										["c_max"] = 0,
+										["id"] = 980,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 12,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[146739] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 1,
+										["g_amt"] = 0,
+										["n_max"] = 1,
+										["targets"] = {
+											["Blutsporenfeuerteufel"] = 10,
+										},
+										["n_dmg"] = 9,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 10,
+										["total"] = 10,
+										["c_max"] = 1,
+										["id"] = 146739,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 1,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 9,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[324540] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 6,
+										["g_amt"] = 0,
+										["n_max"] = 3,
+										["targets"] = {
+											["Blutsporenfeuerteufel"] = 16,
+										},
+										["n_dmg"] = 10,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 16,
+										["c_max"] = 6,
+										["id"] = 324540,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 6,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 4,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[234153] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1,
+										["targets"] = {
+											["Blutsporenfeuerteufel"] = 1,
+										},
+										["n_dmg"] = 1,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 1,
+										["c_max"] = 0,
+										["id"] = 234153,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[686] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 1,
+										["targets"] = {
+											["Blutsporenfeuerteufel"] = 2,
+										},
+										["n_dmg"] = 2,
+										["n_min"] = 1,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 2,
+										["c_max"] = 0,
+										["id"] = 686,
+										["r_dmg"] = 0,
+										["spellschool"] = 32,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["serial"] = "Player-3686-09B7BD1F",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1646441584,
+							["damage_taken"] = 190.008764,
+							["start_time"] = 1646441562,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [1]
+						{
+							["flag_original"] = 68168,
+							["totalabsorbed"] = 0.007138,
+							["aID"] = "25470",
+							["damage_from"] = {
+								["Alphons"] = true,
+							},
+							["targets"] = {
+								["Alphons"] = 190,
+							},
+							["end_time"] = 1646441584,
+							["pets"] = {
+							},
+							["fight_component"] = true,
+							["classe"] = "UNKNOW",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 190.007138,
+							["monster"] = true,
+							["dps_started"] = false,
+							["total"] = 190.007138,
+							["on_hold"] = false,
+							["friendlyfire_total"] = 0,
+							["nome"] = "Blutsporenfeuerteufel",
+							["spells"] = {
+								["tipo"] = 2,
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 19,
+										["targets"] = {
+											["Alphons"] = 100,
+										},
+										["n_dmg"] = 100,
+										["n_min"] = 13,
+										["g_dmg"] = 0,
+										["counter"] = 6,
+										["total"] = 100,
+										["c_max"] = 0,
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["spellschool"] = 1,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 6,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									}, -- [1]
+									[45985] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+										},
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 45985,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 1,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+									[20793] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 30,
+										["targets"] = {
+											["Alphons"] = 90,
+										},
+										["n_dmg"] = 90,
+										["n_min"] = 30,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 90,
+										["c_max"] = 0,
+										["id"] = 20793,
+										["r_dmg"] = 0,
+										["extra"] = {
+										},
+										["a_dmg"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 3,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["b_dmg"] = 0,
+										["r_amt"] = 0,
+									},
+								},
+							},
+							["friendlyfire"] = {
+							},
+							["serial"] = "Creature-0-3767-571-277-25470-00001FC049",
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["last_event"] = 1646441584,
+							["damage_taken"] = 43.007138,
+							["start_time"] = 1646441564,
+							["delay"] = 0,
+							["tipo"] = 1,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["combatId"] = 185,
+					["tipo"] = 3,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["healing_from"] = {
+								["Alphons"] = true,
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["aID"] = "3686-09B7BD1F",
+							["totalover"] = 0.004224,
+							["total_without_pet"] = 5.004224,
+							["total"] = 5.004224,
+							["targets_absorbs"] = {
+							},
+							["heal_enemy"] = {
+							},
+							["on_hold"] = false,
+							["serial"] = "Player-3686-09B7BD1F",
+							["totalabsorb"] = 0.004224,
+							["last_hps"] = 0,
+							["targets"] = {
+								["Alphons"] = 5,
+							},
+							["totalover_without_pet"] = 0.004224,
+							["healing_taken"] = 5.004224,
+							["fight_component"] = true,
+							["end_time"] = 1646441584,
+							["targets_overheal"] = {
+							},
+							["nome"] = "Alphons",
+							["spells"] = {
+								["tipo"] = 3,
+								["_ActorTable"] = {
+									[127802] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 1,
+										["targets"] = {
+											["Alphons"] = 2,
+										},
+										["n_min"] = 1,
+										["counter"] = 2,
+										["overheal"] = 0,
+										["total"] = 2,
+										["c_max"] = 0,
+										["id"] = 127802,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 2,
+										["totaldenied"] = 0,
+										["n_amt"] = 2,
+										["absorbed"] = 0,
+									},
+									[234153] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+										},
+										["n_max"] = 3,
+										["targets"] = {
+											["Alphons"] = 3,
+										},
+										["n_min"] = 3,
+										["counter"] = 1,
+										["overheal"] = 0,
+										["total"] = 3,
+										["c_max"] = 0,
+										["id"] = 234153,
+										["targets_absorbs"] = {
+										},
+										["c_min"] = 0,
+										["c_curado"] = 0,
+										["n_curado"] = 3,
+										["totaldenied"] = 0,
+										["n_amt"] = 1,
+										["absorbed"] = 0,
+									},
+								},
+							},
+							["grupo"] = true,
+							["heal_enemy_amt"] = 0,
+							["classe"] = "WARLOCK",
+							["custom"] = 0,
+							["last_event"] = 1646441584,
+							["start_time"] = 1646441582,
+							["totaldenied"] = 0.004224,
+							["delay"] = 1646441566,
+							["tipo"] = 2,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["combatId"] = 185,
+					["tipo"] = 7,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001188,
+							["resource"] = 3.001188,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 0,
+							["classe"] = "WARLOCK",
+							["passiveover"] = 0.001188,
+							["fight_component"] = true,
+							["total"] = 0.001188,
+							["nome"] = "Alphons",
+							["spells"] = {
+								["tipo"] = 7,
+								["_ActorTable"] = {
+								},
+							},
+							["grupo"] = true,
+							["resource_type"] = 7,
+							["flag_original"] = 1297,
+							["alternatepower"] = 0.001188,
+							["last_event"] = 1646441584,
+							["aID"] = "3686-09B7BD1F",
+							["tipo"] = 3,
+							["serial"] = "Player-3686-09B7BD1F",
+							["totalover"] = 0.001188,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["combatId"] = 185,
+					["tipo"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[980] = {
+										["activedamt"] = 0,
+										["id"] = 980,
+										["targets"] = {
+										},
+										["uptime"] = 20,
+										["appliedamt"] = 0,
+										["refreshamt"] = 3,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[146739] = {
+										["activedamt"] = 0,
+										["id"] = 146739,
+										["targets"] = {
+										},
+										["uptime"] = 8,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+									[234153] = {
+										["activedamt"] = 0,
+										["id"] = 234153,
+										["targets"] = {
+										},
+										["uptime"] = 1,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["buff_uptime"] = 22,
+							["aID"] = "3686-09B7BD1F",
+							["buff_uptime_spells"] = {
+								["tipo"] = 9,
+								["_ActorTable"] = {
+									[335151] = {
+										["activedamt"] = 1,
+										["id"] = 335151,
+										["targets"] = {
+										},
+										["uptime"] = 22,
+										["appliedamt"] = 1,
+										["refreshamt"] = 0,
+										["actived"] = false,
+										["counter"] = 0,
+									},
+								},
+							},
+							["fight_component"] = true,
+							["debuff_uptime"] = 29,
+							["buff_uptime_targets"] = {
+							},
+							["grupo"] = true,
+							["spell_cast"] = {
+								[980] = 1,
+								[324536] = 5,
+								[234153] = 1,
+								[686] = 2,
+								[172] = 1,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["nome"] = "Alphons",
+							["last_event"] = 1646441584,
+							["pets"] = {
+							},
+							["classe"] = "WARLOCK",
+							["serial"] = "Player-3686-09B7BD1F",
+							["tipo"] = 4,
+						}, -- [1]
+						{
+							["monster"] = true,
+							["nome"] = "Blutsporenfeuerteufel",
+							["flag_original"] = 2632,
+							["spell_cast"] = {
+								[45985] = 1,
+								[20793] = 3,
+							},
+							["classe"] = "UNKNOW",
+							["fight_component"] = true,
+							["last_event"] = 0,
+							["pets"] = {
+							},
+							["tipo"] = 4,
+							["serial"] = "Creature-0-3767-571-277-25470-00069F23B6",
+							["aID"] = "25470",
+						}, -- [2]
+					},
+				}, -- [4]
+				{
+					["combatId"] = 185,
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Alphons"] = true,
+				},
+				["raid_roster_indexed"] = {
+					"Alphons", -- [1]
+				},
+				["CombatStartedAt"] = 660268.278,
+				["overall_added"] = true,
+				["last_events_tables"] = {
+					{
+						{
+							{
+								true, -- [1]
+								1, -- [2]
+								17, -- [3]
+								1646441564.83, -- [4]
+								180, -- [5]
+								"Blutsporenfeuerteufel", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [1]
+							{
+								false, -- [1]
+								127802, -- [2]
+								1, -- [3]
+								1646441566.763, -- [4]
+								164, -- [5]
+								"Alphons", -- [6]
+								nil, -- [7]
+								0, -- [8]
+							}, -- [2]
+							{
+								true, -- [1]
+								1, -- [2]
+								15, -- [3]
+								1646441566.886, -- [4]
+								164, -- [5]
+								"Blutsporenfeuerteufel", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [3]
+							{
+								true, -- [1]
+								20793, -- [2]
+								30, -- [3]
+								1646441570.515, -- [4]
+								119, -- [5]
+								"Blutsporenfeuerteufel", -- [6]
+								nil, -- [7]
+								4, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [4]
+							{
+								true, -- [1]
+								20793, -- [2]
+								30, -- [3]
+								1646441574.158, -- [4]
+								89, -- [5]
+								"Blutsporenfeuerteufel", -- [6]
+								nil, -- [7]
+								4, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [5]
+							{
+								true, -- [1]
+								1, -- [2]
+								18, -- [3]
+								1646441575.995, -- [4]
+								89, -- [5]
+								"Blutsporenfeuerteufel", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [6]
+							{
+								true, -- [1]
+								1, -- [2]
+								19, -- [3]
+								1646441578.003, -- [4]
+								71, -- [5]
+								"Blutsporenfeuerteufel", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [7]
+							{
+								true, -- [1]
+								20793, -- [2]
+								30, -- [3]
+								1646441581.459, -- [4]
+								22, -- [5]
+								"Blutsporenfeuerteufel", -- [6]
+								nil, -- [7]
+								4, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [8]
+							{
+								false, -- [1]
+								127802, -- [2]
+								1, -- [3]
+								1646441582.68, -- [4]
+								23, -- [5]
+								"Alphons", -- [6]
+								nil, -- [7]
+								0, -- [8]
+							}, -- [9]
+							{
+								true, -- [1]
+								1, -- [2]
+								18, -- [3]
+								1646441583.327, -- [4]
+								23, -- [5]
+								"Blutsporenfeuerteufel", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								-1, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [10]
+							{
+								false, -- [1]
+								234153, -- [2]
+								3, -- [3]
+								1646441584.908, -- [4]
+								8, -- [5]
+								"Alphons", -- [6]
+								nil, -- [7]
+								0, -- [8]
+							}, -- [11]
+							{
+								true, -- [1]
+								1, -- [2]
+								13, -- [3]
+								1646441585.329, -- [4]
+								8, -- [5]
+								"Blutsporenfeuerteufel", -- [6]
+								nil, -- [7]
+								1, -- [8]
+								false, -- [9]
+								5, -- [10]
+								false, -- [11]
+								false, -- [12]
+							}, -- [12]
+							{
+								3, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0, -- [4]
+								0, -- [5]
+								"Alphons", -- [6]
+							}, -- [13]
+						}, -- [1]
+						1646441585.329, -- [2]
+						"Alphons", -- [3]
+						"WARLOCK", -- [4]
+						180, -- [5]
+						"0m 22s", -- [6]
+						["dead_at"] = 22.07200000004377,
+						["dead"] = true,
+					}, -- [1]
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 202,
+				["playing_solo"] = true,
+				["totals"] = {
+					232.992884, -- [1]
+					5, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 1,
+					}, -- [4]
+					["frags_total"] = 0,
+					["voidzone_damage"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["data_fim"] = "01:53:05",
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Blutsporenfeuerteufel",
+				["TotalElapsedCombatTime"] = 660206.432,
+				["CombatEndedAt"] = 660206.432,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "01:52:43",
+				["end_time"] = 660206.432,
+				["combat_id"] = 185,
+				["tempo_start"] = 1646441562,
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["frags"] = {
+				},
+				["totals_grupo"] = {
+					43, -- [1]
+					5, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[3] = 0,
+						[6] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["debuff_uptime"] = 0,
+						["cooldowns_defensive"] = 0,
+						["interrupt"] = 0,
+						["dispell"] = 0,
+						["cc_break"] = 0,
+						["dead"] = 1,
+					}, -- [4]
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Alphons"] = 5.004224,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+					["damage"] = {
+						{
+							["Alphons"] = 43.008764,
+						}, -- [1]
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 660184.36,
+				["contra"] = "Blutsporenfeuerteufel",
+				["TimeData"] = {
+				},
+			}, -- [3]
+		},
+	},
+	["ocd_tracker"] = {
+		["enabled"] = false,
+		["current_cooldowns"] = {
+		},
+		["cooldowns"] = {
+		},
+		["show_conditions"] = {
+			["only_inside_instance"] = true,
+			["only_in_group"] = true,
+		},
+		["show_options"] = false,
+		["pos"] = {
+		},
+	},
+	["last_version"] = "9.2.09694",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["tabela_instancias"] = {
+	},
+	["coach"] = {
+		["enabled"] = false,
+		["welcome_panel_pos"] = {
+		},
+		["last_coach_name"] = false,
+	},
+	["on_death_menu"] = true,
+	["cached_talents"] = {
+	},
+	["last_instance_id"] = 1763,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["announce_prepots"] = {
+		["enabled"] = false,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["active_profile"] = "Alphons-Antonidas",
+	["last_realversion"] = 146,
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["enabled"] = true,
+			["animate"] = false,
+			["hide_pull_bar"] = false,
+			["author"] = "Terciob",
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["usefocus"] = false,
+			["updatespeed"] = 1,
+			["showamount"] = false,
+			["useplayercolor"] = false,
+			["useclasscolors"] = false,
+			["playSoundFile"] = "Details Threat Warning Volume 3",
+			["playSound"] = false,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Terciob",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["tank_block_size_height"] = 50,
+			["show_power_bar"] = false,
+			["first_run"] = false,
+			["aura_timer_text_size"] = 14,
+			["tank_block_castbar_size_height"] = 16,
+			["show_health_bar"] = true,
+			["aura_offset_y"] = 0,
+			["enabled"] = true,
+			["show_cast_bar"] = false,
+			["author"] = "Terciob",
+			["tank_block_size"] = 150,
+			["bar_height"] = 24,
+			["tank_block_texture"] = "Details Serenity",
+			["show_inc_bars"] = true,
+			["tank_block_powerbar_size_height"] = 10,
+			["tank_block_height"] = 40,
+			["tank_block_color"] = {
+				0.074509, -- [1]
+				0.035294, -- [2]
+				0.035294, -- [3]
+				0.832845, -- [4]
+			},
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["last_section_selected"] = "main",
+			["author"] = "Terciob",
+			["window_scale"] = 1,
+			["encounter_timers_dbm"] = {
+			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["use_square_mode"] = false,
+			["is_first_run"] = false,
+			["grow_direction"] = "right",
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300, -- [1]
+				500.0000305175781, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 143.9240135725284,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["arrow_anchor_y"] = 0,
+			["arrow_anchor_x"] = 0,
+			["main_frame_locked"] = false,
+			["row_texture"] = "Details Serenity",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 3.0517578125e-05,
+				["x"] = 3.0517578125e-05,
+				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+			},
+			["author"] = "Details! Team",
+			["square_amount"] = 5,
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["font_size"] = 10,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["main_frame_strata"] = "LOW",
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["y"] = 4.57763671875e-05,
+			["use_spark"] = true,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["square_size"] = 32,
+			["point"] = "CENTER",
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["row_height"] = 20,
+			["scale"] = 1,
+		},
+	},
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "",
+		["started"] = false,
+		["segment_id"] = 0,
+		["ej_id"] = 0,
+		["started_at"] = 0,
+		["run_id"] = 0,
+		["level"] = 0,
+		["dungeon_zone_id"] = 0,
+		["previous_boss_killed_at"] = 0,
+	},
+	["last_day"] = "05",
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_instance_time"] = 1636152975,
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["force_font_outline"] = "",
+	["combat_id"] = 187,
+	["savedStyles"] = {
+	},
+	["character_data"] = {
+		["logons"] = 8,
+	},
+	["combat_counter"] = 204,
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.026926,
+					["damage_from"] = {
+						["Huscher der Nerub'ar"] = true,
+						["Netzfürst der Nerub'ar"] = true,
+						["Blutsporenfeuerteufel"] = true,
+					},
+					["targets"] = {
+						["Blutsporenfeuerteufel"] = 43,
+					},
+					["pets"] = {
+					},
+					["aID"] = "3686-09B7BD1F",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 43.026926,
+					["friendlyfire"] = {
+					},
+					["last_event"] = 0,
+					["dps_started"] = false,
+					["total"] = 43.026926,
+					["classe"] = "WARLOCK",
+					["friendlyfire_total"] = 0,
+					["nome"] = "Alphons",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							[127802] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1,
+								["targets"] = {
+									["Blutsporenfeuerteufel"] = 2,
+								},
+								["n_dmg"] = 2,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 2,
+								["c_max"] = 0,
+								["id"] = 127802,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 2,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[980] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1,
+								["targets"] = {
+									["Blutsporenfeuerteufel"] = 12,
+								},
+								["n_dmg"] = 12,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 12,
+								["total"] = 12,
+								["c_max"] = 0,
+								["id"] = 980,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 12,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[146739] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 1,
+								["g_amt"] = 0,
+								["n_max"] = 1,
+								["targets"] = {
+									["Blutsporenfeuerteufel"] = 10,
+								},
+								["n_dmg"] = 9,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 10,
+								["total"] = 10,
+								["c_max"] = 1,
+								["id"] = 146739,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 9,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[324540] = {
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 6,
+								["g_amt"] = 0,
+								["n_max"] = 3,
+								["targets"] = {
+									["Blutsporenfeuerteufel"] = 16,
+								},
+								["n_dmg"] = 10,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 5,
+								["total"] = 16,
+								["c_max"] = 6,
+								["id"] = 324540,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 4,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[686] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1,
+								["targets"] = {
+									["Blutsporenfeuerteufel"] = 2,
+								},
+								["n_dmg"] = 2,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 2,
+								["total"] = 2,
+								["c_max"] = 0,
+								["id"] = 686,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 2,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[234153] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 1,
+								["targets"] = {
+									["Blutsporenfeuerteufel"] = 1,
+								},
+								["n_dmg"] = 1,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 1,
+								["c_max"] = 0,
+								["id"] = 234153,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["end_time"] = 1646441585,
+					["on_hold"] = false,
+					["serial"] = "Player-3686-09B7BD1F",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1646441560,
+					["delay"] = 0,
+					["damage_taken"] = 524.026926,
+				}, -- [1]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.015547,
+					["damage_from"] = {
+						["Alphons"] = true,
+					},
+					["targets"] = {
+						["Alphons"] = 190,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "25470",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 190.015547,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1646441585,
+					["dps_started"] = false,
+					["total"] = 190.015547,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Blutsporenfeuerteufel",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 19,
+								["targets"] = {
+									["Alphons"] = 100,
+								},
+								["n_dmg"] = 100,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 6,
+								["total"] = 100,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 6,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[45985] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+								},
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 45985,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 0,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+							[20793] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 30,
+								["targets"] = {
+									["Alphons"] = 90,
+								},
+								["n_dmg"] = 90,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 3,
+								["total"] = 90,
+								["c_max"] = 0,
+								["id"] = 20793,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 3,
+								["a_amt"] = 0,
+								["n_amt"] = 3,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3767-571-277-25470-00001FC049",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1646441562,
+					["delay"] = 0,
+					["damage_taken"] = 43.015547,
+				}, -- [2]
+				{
+					["flag_original"] = 68168,
+					["totalabsorbed"] = 0.017074,
+					["on_hold"] = false,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Alphons"] = 245,
+					},
+					["pets"] = {
+					},
+					["end_time"] = 1646441658,
+					["friendlyfire"] = {
+					},
+					["aID"] = "24566",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 245.017074,
+					["fight_component"] = true,
+					["dps_started"] = false,
+					["total"] = 245.017074,
+					["classe"] = "UNKNOW",
+					["monster"] = true,
+					["nome"] = "Huscher der Nerub'ar",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 19,
+								["targets"] = {
+									["Alphons"] = 216,
+								},
+								["n_dmg"] = 216,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 14,
+								["total"] = 216,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 14,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[49749] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 29,
+								["targets"] = {
+									["Alphons"] = 29,
+								},
+								["n_dmg"] = 29,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 1,
+								["total"] = 29,
+								["c_max"] = 0,
+								["id"] = 49749,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 1,
+								["a_amt"] = 0,
+								["n_amt"] = 1,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3767-571-277-24566-000022AC6E",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1646441641,
+					["delay"] = 0,
+					["damage_taken"] = 0.017074,
+				}, -- [3]
+				{
+					["flag_original"] = 2632,
+					["totalabsorbed"] = 0.009889,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Alphons"] = 89,
+					},
+					["on_hold"] = false,
+					["pets"] = {
+					},
+					["monster"] = true,
+					["aID"] = "25294",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 89.009889,
+					["friendlyfire"] = {
+					},
+					["end_time"] = 1646441698,
+					["dps_started"] = false,
+					["total"] = 89.009889,
+					["fight_component"] = true,
+					["classe"] = "UNKNOW",
+					["nome"] = "Netzfürst der Nerub'ar",
+					["spells"] = {
+						["tipo"] = 2,
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 1,
+								["b_amt"] = 0,
+								["c_dmg"] = 35,
+								["g_amt"] = 0,
+								["n_max"] = 18,
+								["targets"] = {
+									["Alphons"] = 89,
+								},
+								["n_dmg"] = 54,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 4,
+								["total"] = 89,
+								["c_max"] = 35,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["a_amt"] = 0,
+								["n_amt"] = 3,
+								["b_dmg"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+						},
+					},
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["serial"] = "Creature-0-3767-571-277-25294-000022ACAB",
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1646441689,
+					["delay"] = 0,
+					["damage_taken"] = 0.009889,
+				}, -- [4]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["healing_from"] = {
+						["Alphons"] = true,
+					},
+					["pets"] = {
+					},
+					["iniciar_hps"] = false,
+					["heal_enemy_amt"] = 0,
+					["totalover"] = 0.008063,
+					["total_without_pet"] = 5.008063,
+					["total"] = 5.008063,
+					["targets_absorbs"] = {
+					},
+					["heal_enemy"] = {
+					},
+					["on_hold"] = false,
+					["serial"] = "Player-3686-09B7BD1F",
+					["totalabsorb"] = 0.008063,
+					["last_hps"] = 0,
+					["targets"] = {
+						["Alphons"] = 5,
+					},
+					["totalover_without_pet"] = 0.008063,
+					["healing_taken"] = 5.008063,
+					["fight_component"] = true,
+					["end_time"] = 1646441585,
+					["targets_overheal"] = {
+					},
+					["nome"] = "Alphons",
+					["spells"] = {
+						["tipo"] = 3,
+						["_ActorTable"] = {
+							[127802] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 1,
+								["targets"] = {
+									["Alphons"] = 2,
+								},
+								["n_min"] = 0,
+								["counter"] = 2,
+								["overheal"] = 0,
+								["total"] = 2,
+								["c_max"] = 0,
+								["id"] = 127802,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_curado"] = 0,
+								["n_curado"] = 2,
+								["totaldenied"] = 0,
+								["n_amt"] = 2,
+								["absorbed"] = 0,
+							},
+							[234153] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+								},
+								["n_max"] = 3,
+								["targets"] = {
+									["Alphons"] = 3,
+								},
+								["n_min"] = 0,
+								["counter"] = 1,
+								["overheal"] = 0,
+								["total"] = 3,
+								["c_max"] = 0,
+								["id"] = 234153,
+								["targets_absorbs"] = {
+								},
+								["c_min"] = 0,
+								["c_curado"] = 0,
+								["n_curado"] = 3,
+								["totaldenied"] = 0,
+								["n_amt"] = 1,
+								["absorbed"] = 0,
+							},
+						},
+					},
+					["grupo"] = true,
+					["start_time"] = 1646441580,
+					["aID"] = "3686-09B7BD1F",
+					["custom"] = 0,
+					["last_event"] = 0,
+					["classe"] = "WARLOCK",
+					["totaldenied"] = 0.008063,
+					["delay"] = 0,
+					["tipo"] = 2,
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+				{
+					["received"] = 0.006247,
+					["resource"] = 3.006247,
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["powertype"] = 0,
+					["classe"] = "WARLOCK",
+					["passiveover"] = 0.005059,
+					["resource_type"] = 7,
+					["fight_component"] = true,
+					["total"] = 0.006247,
+					["tipo"] = 3,
+					["totalover"] = 0.005059,
+					["nome"] = "Alphons",
+					["spells"] = {
+						["tipo"] = 7,
+						["_ActorTable"] = {
+						},
+					},
+					["grupo"] = true,
+					["flag_original"] = 1297,
+					["alternatepower"] = 0.006247,
+					["last_event"] = 0,
+					["aID"] = "3686-09B7BD1F",
+					["serial"] = "Player-3686-09B7BD1F",
+				}, -- [1]
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[980] = {
+								["refreshamt"] = 3,
+								["activedamt"] = 0,
+								["appliedamt"] = 0,
+								["id"] = 980,
+								["uptime"] = 20,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[146739] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 146739,
+								["uptime"] = 8,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[234153] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 0,
+								["appliedamt"] = 1,
+								["id"] = 234153,
+								["uptime"] = 1,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["pets"] = {
+					},
+					["classe"] = "WARLOCK",
+					["buff_uptime_spells"] = {
+						["tipo"] = 9,
+						["_ActorTable"] = {
+							[335151] = {
+								["refreshamt"] = 0,
+								["activedamt"] = 3,
+								["appliedamt"] = 3,
+								["id"] = 335151,
+								["uptime"] = 36,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+					},
+					["fight_component"] = true,
+					["debuff_uptime"] = 29,
+					["nome"] = "Alphons",
+					["grupo"] = true,
+					["spell_cast"] = {
+						[234153] = 1,
+						[324536] = 5,
+						[172] = 1,
+						[980] = 1,
+						[686] = 2,
+					},
+					["debuff_uptime_targets"] = {
+					},
+					["last_event"] = 0,
+					["tipo"] = 4,
+					["buff_uptime_targets"] = {
+					},
+					["buff_uptime"] = 36,
+					["serial"] = "Player-3686-09B7BD1F",
+					["aID"] = "3686-09B7BD1F",
+				}, -- [1]
+				{
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["spell_cast"] = {
+						[45985] = 1,
+						[20793] = 3,
+					},
+					["nome"] = "Blutsporenfeuerteufel",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 2632,
+					["aID"] = "25470",
+					["last_event"] = 0,
+					["serial"] = "Creature-0-3767-571-277-25470-00069F23B6",
+					["tipo"] = 4,
+				}, -- [2]
+				{
+					["monster"] = true,
+					["classe"] = "UNKNOW",
+					["spell_cast"] = {
+						[49749] = 1,
+					},
+					["nome"] = "Huscher der Nerub'ar",
+					["pets"] = {
+					},
+					["fight_component"] = true,
+					["flag_original"] = 2632,
+					["aID"] = "24566",
+					["last_event"] = 0,
+					["serial"] = "Creature-0-3767-571-277-24566-000022AC65",
+					["tipo"] = 4,
+				}, -- [3]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["raid_roster_indexed"] = {
+		},
+		["tempo_start"] = 1646441562,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 201,
+		["spells_cast_timeline"] = {
+		},
+		["totals"] = {
+			1816.072919, -- [1]
+			5.004224, -- [2]
+			{
+				0, -- [1]
+				[0] = 0.001188,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+			["frags_total"] = 0,
+			["voidzone_damage"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = "01:52:43",
+		["end_time"] = 660319.305,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["segments_added"] = {
+			{
+				["elapsed"] = 6.087999999988824,
+				["type"] = 0,
+				["name"] = "Netzfürst der Nerub'ar",
+				["clock"] = "01:54:52",
+			}, -- [1]
+			{
+				["elapsed"] = 8.728999999933876,
+				["type"] = 0,
+				["name"] = "Huscher der Nerub'ar",
+				["clock"] = "01:54:09",
+			}, -- [2]
+			{
+				["elapsed"] = 22.07200000004377,
+				["type"] = 0,
+				["name"] = "Blutsporenfeuerteufel",
+				["clock"] = "01:52:43",
+			}, -- [3]
+		},
+		["totals_grupo"] = {
+			43.018438, -- [1]
+			5.004224, -- [2]
+			{
+				0, -- [1]
+				[0] = 0.001188,
+				["alternatepower"] = 0,
+				[3] = 0,
+				[6] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["debuff_uptime"] = 0,
+				["cooldowns_defensive"] = 0,
+				["interrupt"] = 0,
+				["dispell"] = 0,
+				["cc_break"] = 0,
+				["dead"] = 0,
+			}, -- [4]
+		},
+		["frags"] = {
+		},
+		["data_fim"] = "01:54:58",
+		["overall_enemy_name"] = "-- x -- x --",
+		["CombatSkillCache"] = {
+		},
+		["cleu_timeline"] = {
+		},
+		["start_time"] = 660282.4160000001,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+			["damage"] = {
+			},
+		},
+	},
+	["nick_tag_cache"] = {
+		["nextreset"] = 1647737273,
+		["last_version"] = 14,
+	},
+	["ignore_nicktag"] = false,
+	["local_instances_config"] = {
+		{
+			["modo"] = 2,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["isLocked"] = false,
+			["is_open"] = false,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["segment"] = 0,
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -203.0000610351563,
+					["x"] = -589.0003356933594,
+					["w"] = 309.9999389648438,
+					["h"] = 157.9999847412109,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [1]
+	},
+	["announce_cooldowns"] = {
+		["ignored_cooldowns"] = {
+		},
+		["enabled"] = false,
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["cached_roles"] = {
+	},
+	["cached_specs"] = {
+		["Player-3686-09B7BD1F"] = 265,
+	},
+}

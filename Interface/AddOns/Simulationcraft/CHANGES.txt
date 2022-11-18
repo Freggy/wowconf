@@ -1,0 +1,10 @@
+lightweight tag f3442e5aef26736199a7ec017c9190d074236245 v10.0.2-01
+Author:	Dave Hendler <sollaires@gmail.com>
+Date:	Tue Nov 15 15:17:02 2022 -0800
+
+commit f3442e5aef26736199a7ec017c9190d074236245
+Author: Dave Hendler <sollaires@gmail.com>
+Date:   Tue Nov 15 15:17:02 2022 -0800
+
+    Proper version
+

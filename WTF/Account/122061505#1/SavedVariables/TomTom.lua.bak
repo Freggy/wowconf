@@ -1,0 +1,246 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Murr - The Venture Co"] = "Default",
+		["Roffler - Arthas"] = "Default",
+		["Freggy - Blutkessel"] = "Default",
+		["Aufsmaulwurf - Antonidas"] = "Default",
+		["Unmuhralisch - Arthas"] = "Default",
+		["Macher - Antonidas"] = "Default",
+		["Námo - Antonidas"] = "Default",
+		["Nuath - Antonidas"] = "Default",
+		["Pakkutaq - Antonidas"] = "Default",
+		["Jajajajaja - Antonidas"] = "Default",
+		["Uor - Antonidas"] = "Default",
+		["Aeflisehf - Antonidas"] = "Default",
+		["Schneggsche - Antonidas"] = "Default",
+		["Auur - Antonidas"] = "Default",
+		["Rumpelmann - Antonidas"] = "Default",
+		["Olatius - The Venture Co"] = "Default",
+		["Alphons - Antonidas"] = "Default",
+		["Roffler - Antonidas"] = "Default",
+		["Naryaa - Antonidas"] = "Default",
+		["Runkelbart - Arthas"] = "Default",
+		["Uud - Antonidas"] = "Default",
+		["Aragaan - Antonidas"] = "Default",
+		["Aqqaluk - Antonidas"] = "Default",
+		["Gottwalt - Arthas"] = "Default",
+		["Aethon - Arthas"] = "Default",
+		["Rofflefotz - Antonidas"] = "Default",
+		["Rumpellus - Die Aldor"] = "Default",
+		["Nasdaq - Arthas"] = "Default",
+		["Gunnaro - Forscherliga"] = "Default",
+		["Roffellolol - Antonidas"] = "Default",
+		["Luxr - Antonidas"] = "Default",
+		["Muhsevelt - Blackrock"] = "Default",
+		["Karibuh - Antonidas"] = "Default",
+		["Birnenmoose - Blackrock"] = "Default",
+		["Kuumuu - Antonidas"] = "Default",
+		["Hammersbaldt - Antonidas"] = "Default",
+		["Kaneggi - Antonidas"] = "Default",
+		["Kaneggi - Arthas"] = "Default",
+		["Sokubius - Antonidas"] = "Default",
+		["Runkelbart - Antonidas"] = "Default",
+		["Aur - Antonidas"] = "Default",
+		["Platu - Arthas"] = "Default",
+		["Coqqeritis - Blackrock"] = "Default",
+		["Gebrechen - Arthas"] = "Default",
+		["Luxor - Arthas"] = "Default",
+		["Brennar - Antonidas"] = "Default",
+		["Gommemode - Antonidas"] = "Default",
+		["Socubius - The Venture Co"] = "Default",
+		["Gralsond - Antonidas"] = "Default",
+		["Volaris - Arthas"] = "Default",
+		["Staalberg - Antonidas"] = "Default",
+		["Omegaclap - Antonidas"] = "Default",
+		["Eorüwerüw - Antonidas"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["arrow"] = {
+				["position"] = {
+					"BOTTOMRIGHT", -- [1]
+					nil, -- [2]
+					"BOTTOMRIGHT", -- [3]
+					-336.9996337890625, -- [4]
+					67.0000228881836, -- [5]
+				},
+			},
+			["block"] = {
+				["position"] = {
+					"BOTTOMRIGHT", -- [1]
+					nil, -- [2]
+					"BOTTOMRIGHT", -- [3]
+					-247.9991912841797, -- [4]
+					57.66726684570313, -- [5]
+				},
+			},
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsM = {
+	["profileKeys"] = {
+		["Murr - The Venture Co"] = "Murr - The Venture Co",
+		["Roffler - Arthas"] = "Roffler - Arthas",
+		["Freggy - Blutkessel"] = "Freggy - Blutkessel",
+		["Aufsmaulwurf - Antonidas"] = "Aufsmaulwurf - Antonidas",
+		["Unmuhralisch - Arthas"] = "Unmuhralisch - Arthas",
+		["Macher - Antonidas"] = "Macher - Antonidas",
+		["Námo - Antonidas"] = "Námo - Antonidas",
+		["Nuath - Antonidas"] = "Nuath - Antonidas",
+		["Pakkutaq - Antonidas"] = "Pakkutaq - Antonidas",
+		["Jajajajaja - Antonidas"] = "Jajajajaja - Antonidas",
+		["Uor - Antonidas"] = "Uor - Antonidas",
+		["Aeflisehf - Antonidas"] = "Aeflisehf - Antonidas",
+		["Schneggsche - Antonidas"] = "Schneggsche - Antonidas",
+		["Auur - Antonidas"] = "Auur - Antonidas",
+		["Rumpelmann - Antonidas"] = "Rumpelmann - Antonidas",
+		["Olatius - The Venture Co"] = "Olatius - The Venture Co",
+		["Alphons - Antonidas"] = "Alphons - Antonidas",
+		["Roffler - Antonidas"] = "Roffler - Antonidas",
+		["Naryaa - Antonidas"] = "Naryaa - Antonidas",
+		["Runkelbart - Arthas"] = "Runkelbart - Arthas",
+		["Uud - Antonidas"] = "Uud - Antonidas",
+		["Aragaan - Antonidas"] = "Aragaan - Antonidas",
+		["Aqqaluk - Antonidas"] = "Aqqaluk - Antonidas",
+		["Gottwalt - Arthas"] = "Gottwalt - Arthas",
+		["Aethon - Arthas"] = "Aethon - Arthas",
+		["Rofflefotz - Antonidas"] = "Rofflefotz - Antonidas",
+		["Rumpellus - Die Aldor"] = "Rumpellus - Die Aldor",
+		["Nasdaq - Arthas"] = "Nasdaq - Arthas",
+		["Gunnaro - Forscherliga"] = "Gunnaro - Forscherliga",
+		["Roffellolol - Antonidas"] = "Roffellolol - Antonidas",
+		["Luxr - Antonidas"] = "Luxr - Antonidas",
+		["Muhsevelt - Blackrock"] = "Muhsevelt - Blackrock",
+		["Karibuh - Antonidas"] = "Karibuh - Antonidas",
+		["Birnenmoose - Blackrock"] = "Birnenmoose - Blackrock",
+		["Kuumuu - Antonidas"] = "Kuumuu - Antonidas",
+		["Hammersbaldt - Antonidas"] = "Hammersbaldt - Antonidas",
+		["Kaneggi - Antonidas"] = "Kaneggi - Antonidas",
+		["Kaneggi - Arthas"] = "Kaneggi - Arthas",
+		["Sokubius - Antonidas"] = "Sokubius - Antonidas",
+		["Runkelbart - Antonidas"] = "Runkelbart - Antonidas",
+		["Aur - Antonidas"] = "Aur - Antonidas",
+		["Platu - Arthas"] = "Platu - Arthas",
+		["Coqqeritis - Blackrock"] = "Coqqeritis - Blackrock",
+		["Gebrechen - Arthas"] = "Gebrechen - Arthas",
+		["Luxor - Arthas"] = "Luxor - Arthas",
+		["Brennar - Antonidas"] = "Brennar - Antonidas",
+		["Gommemode - Antonidas"] = "Gommemode - Antonidas",
+		["Socubius - The Venture Co"] = "Socubius - The Venture Co",
+		["Gralsond - Antonidas"] = "Gralsond - Antonidas",
+		["Volaris - Arthas"] = "Volaris - Arthas",
+		["Staalberg - Antonidas"] = "Staalberg - Antonidas",
+		["Omegaclap - Antonidas"] = "Omegaclap - Antonidas",
+		["Eorüwerüw - Antonidas"] = "Eorüwerüw - Antonidas",
+	},
+	["profiles"] = {
+		["Murr - The Venture Co"] = {
+		},
+		["Roffler - Arthas"] = {
+		},
+		["Freggy - Blutkessel"] = {
+		},
+		["Aufsmaulwurf - Antonidas"] = {
+		},
+		["Unmuhralisch - Arthas"] = {
+		},
+		["Macher - Antonidas"] = {
+		},
+		["Námo - Antonidas"] = {
+		},
+		["Nuath - Antonidas"] = {
+		},
+		["Pakkutaq - Antonidas"] = {
+		},
+		["Jajajajaja - Antonidas"] = {
+		},
+		["Uor - Antonidas"] = {
+		},
+		["Aeflisehf - Antonidas"] = {
+		},
+		["Schneggsche - Antonidas"] = {
+		},
+		["Auur - Antonidas"] = {
+		},
+		["Rumpelmann - Antonidas"] = {
+		},
+		["Olatius - The Venture Co"] = {
+		},
+		["Alphons - Antonidas"] = {
+		},
+		["Roffler - Antonidas"] = {
+		},
+		["Naryaa - Antonidas"] = {
+		},
+		["Runkelbart - Arthas"] = {
+		},
+		["Uud - Antonidas"] = {
+		},
+		["Aragaan - Antonidas"] = {
+		},
+		["Aqqaluk - Antonidas"] = {
+		},
+		["Gottwalt - Arthas"] = {
+		},
+		["Aethon - Arthas"] = {
+		},
+		["Rofflefotz - Antonidas"] = {
+		},
+		["Rumpellus - Die Aldor"] = {
+		},
+		["Nasdaq - Arthas"] = {
+		},
+		["Gunnaro - Forscherliga"] = {
+		},
+		["Roffellolol - Antonidas"] = {
+		},
+		["Luxr - Antonidas"] = {
+		},
+		["Muhsevelt - Blackrock"] = {
+		},
+		["Karibuh - Antonidas"] = {
+		},
+		["Birnenmoose - Blackrock"] = {
+		},
+		["Kuumuu - Antonidas"] = {
+		},
+		["Hammersbaldt - Antonidas"] = {
+		},
+		["Kaneggi - Antonidas"] = {
+		},
+		["Kaneggi - Arthas"] = {
+		},
+		["Sokubius - Antonidas"] = {
+		},
+		["Runkelbart - Antonidas"] = {
+		},
+		["Aur - Antonidas"] = {
+		},
+		["Platu - Arthas"] = {
+		},
+		["Coqqeritis - Blackrock"] = {
+		},
+		["Gebrechen - Arthas"] = {
+		},
+		["Luxor - Arthas"] = {
+		},
+		["Brennar - Antonidas"] = {
+		},
+		["Gommemode - Antonidas"] = {
+		},
+		["Socubius - The Venture Co"] = {
+		},
+		["Gralsond - Antonidas"] = {
+		},
+		["Volaris - Arthas"] = {
+		},
+		["Staalberg - Antonidas"] = {
+		},
+		["Omegaclap - Antonidas"] = {
+		},
+		["Eorüwerüw - Antonidas"] = {
+		},
+	},
+}

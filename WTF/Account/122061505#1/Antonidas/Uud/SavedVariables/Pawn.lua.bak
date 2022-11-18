@@ -1,0 +1,86 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0708,
+	["LastPlayerFullName"] = "Uud-Antonidas",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 191807,
+			["Level"] = 219,
+			["Link"] = "|cff0070dd|Hitem:191807::::::::58:1465::26:1:8774:2:28:2150:9:58:::::|h[Helm der Karmindracthyrrüstung]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 188814,
+			["Level"] = 206,
+			["Link"] = "|cff1eff00|Hitem:188814::::::::58:1465::75:::::::|h[Smaragdgrünes Amulett des Schwingenfürsten]|h|r",
+		}, -- [2]
+		nil, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 188822,
+			["Level"] = 206,
+			["Link"] = "|cff1eff00|Hitem:188822::::::::58:1465::75:::::::|h[Smaragdgrüne Halsberge des Schwingenfürsten]|h|r",
+		}, -- [5]
+		nil, -- [6]
+		{
+			["ID"] = 188819,
+			["Level"] = 206,
+			["Link"] = "|cff1eff00|Hitem:188819::::::::58:1465::75:::::::|h[Smaragdgrüne Beinschützer des Schwingenfürsten]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 188824,
+			["Level"] = 206,
+			["Link"] = "|cff1eff00|Hitem:188824::::::::58:1465::75:::::::|h[Smaragdgrüne Stiefel des Schwingenfürsten]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 188823,
+			["Level"] = 206,
+			["Link"] = "|cff1eff00|Hitem:188823::::::::58:1465::75:::::::|h[Smaragdgrüne Armschienen des Schwingenfürsten]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 188821,
+			["Level"] = 206,
+			["Link"] = "|cff1eff00|Hitem:188821::::::::58:1465::75:::::::|h[Smaragdgrüner Handschutz des Schwingenfürsten]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 188812,
+			["Level"] = 206,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff1eff00|Hitem:188812::::::::58:1465::75:::::::|h[Smaragdgrüner Ring des Schwingenfürsten]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 188813,
+			["Level"] = 206,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff1eff00|Hitem:188813::::::::58:1465::75:::::::|h[Smaragdgrüne Schleife des Schwingenfürsten]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 193914,
+			["Level"] = 219,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff0070dd|Hitem:193914::::::::58:1465::26:1:8774:2:28:2150:9:58:::::|h[Kristalliner Lapis]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 188817,
+			["Level"] = 206,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff1eff00|Hitem:188817::::::::58:1465::75:::::::|h[Klauengeschnitzte Figur]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 194422,
+			["Level"] = 232,
+			["Link"] = "|cffa335ee|Hitem:194422::::::::58:1465::26:2:8774:8775:2:9:58:28:2150:::::|h[Blutrotes Dracthyrtuch]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 193481,
+			["Level"] = 219,
+			["Link"] = "|cff0070dd|Hitem:193481::::::::58:1465::26:1:8774:2:9:58:28:2150:::::|h[Verzierter Rubinstab]|h|r",
+		}, -- [16]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "EVOKER",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

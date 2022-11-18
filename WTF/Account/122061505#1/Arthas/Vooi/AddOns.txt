@@ -1,0 +1,6 @@
+WeakAurasCompanion: enabled
+WeakAuras: enabled
+RareScanner: enabled
+GSE: disabled
+GSE_GUI: disabled
+GSE_LDB: disabled

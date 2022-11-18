@@ -1,0 +1,119 @@
+
+OmniCCDB = {
+	["global"] = {
+		["dbVersion"] = 6,
+		["addonVersion"] = "10.0.1",
+	},
+	["profileKeys"] = {
+		["Murr - The Venture Co"] = "Standard",
+		["Roffelxdlmao - Arthas"] = "Standard",
+		["Roffler - Arthas"] = "Standard",
+		["Badenzer - Arthas"] = "Standard",
+		["Aufsmaulwurf - Antonidas"] = "Standard",
+		["Freggy - Blutkessel"] = "Standard",
+		["Muggeschiss - Arthas"] = "Standard",
+		["Unmuhralisch - Arthas"] = "Standard",
+		["Badenzer - Rexxar"] = "Standard",
+		["Roffell - Rexxar"] = "Standard",
+		["Námo - Antonidas"] = "Standard",
+		["Volaris - Arthas"] = "Standard",
+		["Meier - Arthas"] = "Standard",
+		["Nuath - Antonidas"] = "Standard",
+		["Pakkutaq - Antonidas"] = "Standard",
+		["Jajajajaja - Antonidas"] = "Standard",
+		["Runkelbart - Arthas"] = "Standard",
+		["Uor - Antonidas"] = "Standard",
+		["Olatius - The Venture Co"] = "Standard",
+		["Aragaan - Antonidas"] = "Standard",
+		["Gommemode - Antonidas"] = "Standard",
+		["Aeflisehf - Antonidas"] = "Standard",
+		["Schneggsche - Antonidas"] = "Standard",
+		["Auur - Antonidas"] = "Standard",
+		["Roffellolol - Antonidas"] = "Standard",
+		["Roffler - Antonidas"] = "Standard",
+		["Omegaclap - Antonidas"] = "Standard",
+		["Karibuh - Antonidas"] = "Standard",
+		["Gottwalt - Arthas"] = "Standard",
+		["Naryaa - Antonidas"] = "Standard",
+		["Biggusdickus - Arthas"] = "Standard",
+		["Uud - Antonidas"] = "Standard",
+		["Runkelbart - Antonidas"] = "Standard",
+		["Rumpellus - Die Aldor"] = "Standard",
+		["Aqqaluk - Antonidas"] = "Standard",
+		["Luxor - Arthas"] = "Standard",
+		["Gralsond - Antonidas"] = "Standard",
+		["Aethon - Arthas"] = "Standard",
+		["Nasdaq - Arthas"] = "Standard",
+		["Ijs - Arthas"] = "Standard",
+		["Kaneggi - Arthas"] = "Standard",
+		["Luxr - Antonidas"] = "Standard",
+		["Kaneggi - Antonidas"] = "Standard",
+		["Hammersbaldt - Antonidas"] = "Standard",
+		["Kuumuu - Antonidas"] = "Standard",
+		["Muhsevelt - Blackrock"] = "Standard",
+		["Aur - Antonidas"] = "Standard",
+		["Birnenmoose - Blackrock"] = "Standard",
+		["Muruk - Arthas"] = "Standard",
+		["Sokubius - Antonidas"] = "Standard",
+		["Vindicaar - Arthas"] = "Standard",
+		["Rofflefotz - Antonidas"] = "Standard",
+		["Platu - Arthas"] = "Standard",
+		["Coqqeritis - Blackrock"] = "Standard",
+		["Gebrechen - Arthas"] = "Standard",
+		["Planitia - Arthas"] = "Standard",
+		["Brennar - Antonidas"] = "Standard",
+		["Gunnaro - Forscherliga"] = "Standard",
+		["Socubius - The Venture Co"] = "Standard",
+		["Rumpelmann - Antonidas"] = "Standard",
+		["Alphons - Antonidas"] = "Standard",
+		["Staalberg - Antonidas"] = "Standard",
+		["Eorüwerüw - Antonidas"] = "Standard",
+		["Macher - Antonidas"] = "Standard",
+	},
+	["profiles"] = {
+		["Standard"] = {
+			["rules"] = {
+				{
+					["patterns"] = {
+						"PlaterMainAuraIcon", -- [1]
+						"PlaterSecondaryAuraIcon", -- [2]
+						"ExtraIconRowIcon", -- [3]
+					},
+					["id"] = "Plater Nameplates Rule",
+					["priority"] = 1,
+					["theme"] = "Plater Nameplates Theme",
+				}, -- [1]
+			},
+			["themes"] = {
+				["Standard"] = {
+					["textStyles"] = {
+						["seconds"] = {
+						},
+						["soon"] = {
+						},
+						["minutes"] = {
+						},
+					},
+					["minDuration"] = 1,
+					["minSize"] = 0.05,
+					["mmSSDuration"] = 120,
+					["effect"] = "alert",
+					["minEffectDuration"] = 0,
+					["fontSize"] = 15,
+				},
+				["Plater Nameplates Theme"] = {
+					["textStyles"] = {
+						["seconds"] = {
+						},
+						["minutes"] = {
+						},
+						["soon"] = {
+						},
+					},
+					["enableText"] = false,
+				},
+			},
+		},
+	},
+}
+OmniCC4Config = nil

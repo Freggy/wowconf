@@ -1,0 +1,22 @@
+VER 3 0100000000000002 "flash" "135907"
+/cast [@mouseover,help,nodead][help,nodead][@player]Lichtblitz
+END
+VER 3 0100000000000003 "hand" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Handauflegung
+END
+VER 3 0100000000000005 "herrlichkeit" "133192"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Wort der Herrlichkeit
+END
+VER 3 0100000000000001 "holyshock" "135972"
+#showtooltip
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Heiliger Schock
+END
+VER 3 0100000000000004 "segen" "135964"
+/stopcasting
+/cast [@mouseover,help,nodead][exists,nodead][@player]Segen des Schutzes
+END

@@ -1,0 +1,101 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0336,
+	["LastPlayerFullName"] = "Kaneggi-Arthas",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 163410,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:163410::::::::120:251::23:4:5845:1622:4786:6267:::|h[Kopfstück der 7. Legion]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 158075,
+			["Level"] = 388,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:251:::4:4932:4933:4935:1580:::|h[Herz von Azeroth]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 170764,
+			["Level"] = 390,
+			["Link"] = "|cff0070dd|Hitem:170764::::::::120:251:::1:4775:::|h[Herzwundenschulterstücke]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 170759,
+			["Level"] = 390,
+			["Link"] = "|cff0070dd|Hitem:170759::::::::120:251:::1:4775:::|h[Herzwundenbrustplatte]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 170765,
+			["Level"] = 390,
+			["Link"] = "|cff1eff00|Hitem:170765::::::::120:251::::::|h[Herzwundengurt]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 163409,
+			["Level"] = 370,
+			["Link"] = "|cffa335ee|Hitem:163409::::::::120:251::6:3:5126:1562:4786:::|h[Beinschützer der 7. Legion]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 170760,
+			["Level"] = 390,
+			["Link"] = "|cff1eff00|Hitem:170760::::::::120:251::::::|h[Herzwundensabatons]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 163403,
+			["Level"] = 430,
+			["Link"] = "|cffa335ee|Hitem:163403::::::::120:251::23:3:5845:1622:4786:::|h[Armschützer der 7. Legion]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 170761,
+			["Level"] = 390,
+			["Link"] = "|cff1eff00|Hitem:170761::::::::120:251::::::|h[Herzwundenstulpen]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 170594,
+			["Level"] = 390,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff1eff00|Hitem:170594::::::::120:251::::::|h[Herzwundenmachtring]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 170595,
+			["Level"] = 390,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff1eff00|Hitem:170595::::::::120:251::::::|h[Herzwundenmachtband]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 170596,
+			["Level"] = 390,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff1eff00|Hitem:170596::::::::120:251::::::|h[Herzwundenkampfstein]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 170597,
+			["Level"] = 390,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff1eff00|Hitem:170597::::::::120:251::::::|h[Herzwundenschlachtengötze]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 170592,
+			["Level"] = 390,
+			["Link"] = "|cff1eff00|Hitem:170592::::::::120:251::::::|h[Herzwundenschlachtumhang]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 170591,
+			["Level"] = 390,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cff1eff00|Hitem:170591::::::::120:251::::::|h[Herzwundenklinge]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 170591,
+			["Level"] = 390,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cff1eff00|Hitem:170591::::::::120:252::::::|h[Herzwundenklinge]|h|r",
+		}, -- [17]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "DEATHKNIGHT",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

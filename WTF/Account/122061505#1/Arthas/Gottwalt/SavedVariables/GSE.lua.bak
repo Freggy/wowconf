@@ -1,0 +1,222 @@
+
+GSE_C = {
+}
+GSELegacyLibraryBackup = {
+	{
+	}, -- [1]
+	{
+		["SAM_RETAOE"] = {
+			["Helplink"] = "https://wowlazymacros.com/forums/topic/tls-ret-macro/",
+			["Talents"] = "2,2,2,1,1,2,2",
+			["Mythic"] = -1,
+			["Author"] = "TimothyLuke",
+			["ManualIntervention"] = false,
+			["PVP"] = 0,
+			["Lang"] = "enUS",
+			["Default"] = 1,
+			["SpecID"] = 70,
+			["Help"] = "A simple Ret AOE Macro\nShift has Avenging Wrath\nControl has Justicar's Vengeance",
+			["Raid"] = -1,
+			["Icon"] = "INV_MISC_QUESTIONMARK",
+			["MacroVersions"] = {
+				{
+					"/cast 35395", -- [1]
+					"/cast 53385", -- [2]
+					"/cast 20271", -- [3]
+					"/cast 184575", -- [4]
+					"/cast Wake of Ashes", -- [5]
+					["PostMacro"] = {
+					},
+					["StepFunction"] = "Priority",
+					["KeyRelease"] = {
+					},
+					["SoundErrorPrevention"] = true,
+					["PreMacro"] = {
+					},
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/cast [mod:shift] 31884", -- [2]
+						"/cast [mod:ctrl] 215661", -- [3]
+					},
+				}, -- [1]
+			},
+		},
+		["SAM_HOLYPALADIN"] = {
+			["Talents"] = "3323122",
+			["Default"] = 1,
+			["Help"] = "Simple Holy Paladin DPS Macro",
+			["Author"] = "TimothyLuke",
+			["MacroVersions"] = {
+				{
+					"/cast 35395", -- [1]
+					"/cast 26573", -- [2]
+					"/cast [@player] 114158", -- [3]
+					"/cast Judgement", -- [4]
+					["KeyRelease"] = {
+					},
+					["StepFunction"] = "Sequential",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+					},
+					["PreMacro"] = {
+					},
+					["PostMacro"] = {
+					},
+				}, -- [1]
+			},
+			["SpecID"] = 65,
+			["ManualIntervention"] = false,
+		},
+		["SAM_PROT"] = {
+			["Talents"] = "3221222",
+			["Default"] = 1,
+			["Help"] = "Simple Prot Macro.\nMod Shift has Avenging Wrath",
+			["MacroVersions"] = {
+				{
+					"/cast Blessed Hammer", -- [1]
+					"/cast 26573", -- [2]
+					"/cast Shield of the Rghteous", -- [3]
+					"/cast Avenger's Shield", -- [4]
+					"/cast Light of the Protector", -- [5]
+					["KeyRelease"] = {
+					},
+					["StepFunction"] = "Sequential",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/cast [mod:alt] 31884", -- [2]
+					},
+					["PreMacro"] = {
+					},
+					["PostMacro"] = {
+					},
+				}, -- [1]
+			},
+			["SpecID"] = 66,
+			["Author"] = "TimothyLuke",
+			["ManualIntervention"] = false,
+		},
+		["SAM_RET"] = {
+			["Helplink"] = "https://wowlazymacros.com/forums/topic/tls-ret-macro/",
+			["Talents"] = "2,2,2,1,1,2,2",
+			["Author"] = "TimothyLuke",
+			["ManualIntervention"] = false,
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast 35395", -- [1]
+					"/cast 85256", -- [2]
+					"/cast 20271", -- [3]
+					"/cast 184575", -- [4]
+					"/cast Wake of Ashes", -- [5]
+					["PostMacro"] = {
+					},
+					["StepFunction"] = "Priority",
+					["KeyPress"] = {
+						"/targetenemy [noharm][dead]", -- [1]
+						"/cast [mod:shift] 31884", -- [2]
+						"/cast [mod:ctrl] 215661", -- [3]
+					},
+					["PreMacro"] = {
+					},
+					["SoundErrorPrevention"] = true,
+					["KeyRelease"] = {
+					},
+				}, -- [1]
+			},
+			["Lang"] = "enUS",
+			["SpecID"] = 70,
+			["Icon"] = "INV_MISC_QUESTIONMARK",
+			["Help"] = "A simple Ret  Macro\nShift has Avenging Wrath\nControl has Justicar's Vengeance",
+		},
+	}, -- [2]
+	[0] = {
+	},
+	[9] = {
+		["SAM_DESTRO"] = {
+			["Talents"] = "2212122",
+			["Default"] = 1,
+			["SpecID"] = 267,
+			["Author"] = "Cymiryc",
+			["MacroVersions"] = {
+				{
+					"/cast [nochanneling] 29722", -- [1]
+					"/cast [nochanneling] 29722", -- [2]
+					"/cast [nochanneling] 17962", -- [3]
+					"/cast [nochanneling] 29722", -- [4]
+					"/cast [nochanneling] Channel Demonfire", -- [5]
+					["LoopLimit"] = "1",
+					["Combat"] = true,
+					["StepFunction"] = "Sequential",
+					["KeyPress"] = {
+						"/cast [mod:shift] 116858", -- [1]
+						"/cast [mod:ctrl,@cursor] 5740", -- [2]
+					},
+					["PostMacro"] = {
+					},
+					["PreMacro"] = {
+						"/castsequence [nochanneling] reset=target  348", -- [1]
+					},
+					["KeyRelease"] = {
+					},
+				}, -- [1]
+			},
+			["ManualIntervention"] = false,
+		},
+		["SAM_DEMO"] = {
+			["Talents"] = "1111311",
+			["Default"] = 1,
+			["MacroVersions"] = {
+				{
+					"/cast Soul Strike", -- [1]
+					"/cast Call Dreadstalkers", -- [2]
+					"/cast 29722", -- [3]
+					"/cast Hand of Gul'dan", -- [4]
+					"/cast Hand of Gul'dan", -- [5]
+					"/cast Power Siphon", -- [6]
+					["KeyRelease"] = {
+					},
+					["StepFunction"] = "Sequential",
+					["Combat"] = true,
+					["PostMacro"] = {
+					},
+					["PreMacro"] = {
+					},
+					["KeyPress"] = {
+						"/cast [mod:shift] Demonbolt", -- [1]
+						"/cast [mod:ctrl] Summon Demonic Tyrant", -- [2]
+						"/petattack [exists]", -- [3]
+					},
+				}, -- [1]
+			},
+			["Author"] = "Cymiric",
+			["SpecID"] = 266,
+			["ManualIntervention"] = false,
+		},
+		["SAM_AFFLOCK"] = {
+			["Default"] = 1,
+			["Talents"] = "3111113",
+			["Help"] = "Affliction - Talents are 3111113",
+			["MacroVersions"] = {
+				{
+					"/castsequence [nochanneling] reset=target/10  Agony, Corruption", -- [1]
+					"/cast [combat,nochanneling] Unstable Affliction", -- [2]
+					"/cast ShadowBolt", -- [3]
+					["PostMacro"] = {
+					},
+					["StepFunction"] = "Sequential",
+					["KeyPress"] = {
+					},
+					["PreMacro"] = {
+					},
+					["KeyRelease"] = {
+						"/cast [combat,nochanneling] Phantom Singularity", -- [1]
+					},
+				}, -- [1]
+			},
+			["Author"] = "Cacey@The Venture Co",
+			["SpecID"] = 265,
+			["Icon"] = "",
+			["ManualIntervention"] = false,
+		},
+	},
+}

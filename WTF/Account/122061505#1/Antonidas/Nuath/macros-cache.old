@@ -1,0 +1,33 @@
+VER 3 0100000000000006 "broke" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, form:0, exists, help][form:1, @mouseover, help][form:2,@mouseover, help][form:3,@mouseover, help][form:4,@mouseover, help] Eisenborke; [harm, form:4] Sternensog
+END
+VER 3 0100000000000007 "displ" "236288"
+#showtooltip
+/cast [@mouseover, help, nodead]Heilung der Natur
+END
+VER 3 0100000000000005 "huscttz" "132137"
+#showtooltip
+/cast [@mouseover, help, nodead]Cenarischer Zauberschutz
+END
+VER 3 010000000000000C "leben/sternen" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, form:0, exists, help][form:1, @mouseover, help][form:2,@mouseover, help][form:3,@mouseover, help][form:4,@mouseover, help] Blühendes Leben; [harm][harm, form:4] Sternenfeuer
+END
+VER 3 010000000000000A "nach/sonn" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, form:0, exists, help][form:1, @mouseover, help][form:2,@mouseover, help][form:3,@mouseover, help][form:4,@mouseover, help] Nachwachsen; [harm][harm, form:4]  Sonnenfeuer
+END
+VER 3 010000000000000D "reg" "INV_MISC_QUESTIONMARK"
+#showtooltip Rasende Regeneration
+/cast [noform:1] Bärengestalt;
+/cast Rasende Regeneration
+END
+VER 3 0100000000000008 "verj/mond" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, form:0, exists, help][form:1, @mouseover, help][form:2,@mouseover, help][form:3,@mouseover, help][form:4,@mouseover, help] Verjüngung; [harm][harm, form:4] Mondfeuer
+END
+VER 3 010000000000000B "zorn/rasch" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, form:0, exists, help][form:1, @mouseover, help][form:2,@mouseover, help][form:3,@mouseover, help][form:4,@mouseover, help] Rasche Heilung; [harm, form:4][harm, form:0] Zorn
+END

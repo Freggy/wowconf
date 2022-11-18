@@ -1,0 +1,27 @@
+BINDINGMODE 0
+bind BUTTON3 TOGGLEAUTORUN
+bind A CLICK BT4Button15:LeftButton
+bind D CLICK BT4Button14:LeftButton
+bind Q TURNLEFT
+bind E TURNRIGHT
+bind NUMLOCK NONE
+bind NUMPADDIVIDE NONE
+bind R CLICK BT4Button13:LeftButton
+bind SHIFT-R NONE
+bind 1 CLICK BT4Button1:LeftButton
+bind 2 CLICK BT4Button2:LeftButton
+bind 3 CLICK BT4Button3:LeftButton
+bind 4 CLICK BT4Button4:LeftButton
+bind 5 CLICK BT4Button5:LeftButton
+bind 6 NONE
+bind 7 NONE
+bind 8 NONE
+bind 9 NONE
+bind 0 CLICK BT4Button18:LeftButton
+bind ß CLICK BT4Button19:LeftButton
+bind G CLICK BT4Button17:LeftButton
+bind F CLICK BT4Button16:LeftButton
+bind SHIFT-1 ACTIONBUTTON6
+bind SHIFT-2 ACTIONBUTTON7
+bind SHIFT-3 ACTIONBUTTON8
+bind SHIFT-F ACTIONBUTTON9

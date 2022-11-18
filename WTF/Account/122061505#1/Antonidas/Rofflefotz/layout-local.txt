@@ -1,0 +1,15 @@
+Version: 1
+Frame: ST_Maze_Helper
+FrameLevel: 1
+Anchor: TOP
+X: 421
+Y: -24
+W: 306
+H: 225
+Frame: GladiusButtonFramearena1
+FrameLevel: 1
+Anchor: RIGHT
+X: -415
+Y: 147
+W: 160
+H: 52

@@ -1,0 +1,64 @@
+
+DSHDB = {
+	["char"] = {
+		["Brennar - Antonidas"] = {
+			["quickslots"] = {
+				["extended"] = false,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Gralsond - Antonidas"] = "Gralsond - Antonidas",
+		["Aufsmaulwurf - Antonidas"] = "Aufsmaulwurf - Antonidas",
+		["Uud - Antonidas"] = "Uud - Antonidas",
+		["Luxr - Antonidas"] = "Luxr - Antonidas",
+		["Námo - Antonidas"] = "Námo - Antonidas",
+		["Rofflefotz - Antonidas"] = "Rofflefotz - Antonidas",
+		["Muhsevelt - Blackrock"] = "Muhsevelt - Blackrock",
+		["Nuath - Antonidas"] = "Nuath - Antonidas",
+		["Hammersbaldt - Antonidas"] = "Hammersbaldt - Antonidas",
+		["Birnenmoose - Blackrock"] = "Birnenmoose - Blackrock",
+		["Uor - Antonidas"] = "Uor - Antonidas",
+		["Sokubius - Antonidas"] = "Sokubius - Antonidas",
+		["Kuumuu - Antonidas"] = "Kuumuu - Antonidas",
+		["Brennar - Antonidas"] = "Brennar - Antonidas",
+		["Runkelbart - Antonidas"] = "Runkelbart - Antonidas",
+		["Alphons - Antonidas"] = "Alphons - Antonidas",
+		["Karibuh - Antonidas"] = "Karibuh - Antonidas",
+		["Auur - Antonidas"] = "Auur - Antonidas",
+		["Roffellolol - Antonidas"] = "Roffellolol - Antonidas",
+		["Gommemode - Antonidas"] = "Gommemode - Antonidas",
+		["Rumpelmann - Antonidas"] = "Rumpelmann - Antonidas",
+		["Coqqeritis - Blackrock"] = "Coqqeritis - Blackrock",
+		["Eorüwerüw - Antonidas"] = "Eorüwerüw - Antonidas",
+		["Staalberg - Antonidas"] = "Staalberg - Antonidas",
+		["Aragaan - Antonidas"] = "Aragaan - Antonidas",
+		["Roffler - Antonidas"] = "Roffler - Antonidas",
+	},
+	["profiles"] = {
+		["Uor - Antonidas"] = {
+		},
+		["Runkelbart - Antonidas"] = {
+		},
+		["Uud - Antonidas"] = {
+		},
+		["Aragaan - Antonidas"] = {
+		},
+		["Brennar - Antonidas"] = {
+		},
+		["Gommemode - Antonidas"] = {
+		},
+		["Námo - Antonidas"] = {
+		},
+		["Nuath - Antonidas"] = {
+		},
+		["Kuumuu - Antonidas"] = {
+		},
+		["Staalberg - Antonidas"] = {
+		},
+		["Hammersbaldt - Antonidas"] = {
+		},
+		["Birnenmoose - Blackrock"] = {
+		},
+	},
+}

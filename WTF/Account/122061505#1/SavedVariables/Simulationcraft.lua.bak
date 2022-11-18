@@ -1,0 +1,237 @@
+
+SimulationCraftDB = {
+	["profileKeys"] = {
+		["Roffler - Arthas"] = "Roffler - Arthas",
+		["Freggy - Blutkessel"] = "Freggy - Blutkessel",
+		["Aufsmaulwurf - Antonidas"] = "Aufsmaulwurf - Antonidas",
+		["Unmuhralisch - Arthas"] = "Unmuhralisch - Arthas",
+		["Macher - Antonidas"] = "Macher - Antonidas",
+		["Námo - Antonidas"] = "Námo - Antonidas",
+		["Nuath - Antonidas"] = "Nuath - Antonidas",
+		["Pakkutaq - Antonidas"] = "Pakkutaq - Antonidas",
+		["Jajajajaja - Antonidas"] = "Jajajajaja - Antonidas",
+		["Uor - Antonidas"] = "Uor - Antonidas",
+		["Aeflisehf - Antonidas"] = "Aeflisehf - Antonidas",
+		["Schneggsche - Antonidas"] = "Schneggsche - Antonidas",
+		["Auur - Antonidas"] = "Auur - Antonidas",
+		["Olatius - The Venture Co"] = "Olatius - The Venture Co",
+		["Rumpelmann - Antonidas"] = "Rumpelmann - Antonidas",
+		["Alphons - Antonidas"] = "Alphons - Antonidas",
+		["Naryaa - Antonidas"] = "Naryaa - Antonidas",
+		["Runkelbart - Arthas"] = "Runkelbart - Arthas",
+		["Uud - Antonidas"] = "Uud - Antonidas",
+		["Eorüwerüw - Antonidas"] = "Eorüwerüw - Antonidas",
+		["Volaris - Arthas"] = "Volaris - Arthas",
+		["Aqqaluk - Antonidas"] = "Aqqaluk - Antonidas",
+		["Rumpellus - Die Aldor"] = "Rumpellus - Die Aldor",
+		["Gralsond - Antonidas"] = "Gralsond - Antonidas",
+		["Aethon - Arthas"] = "Aethon - Arthas",
+		["Nasdaq - Arthas"] = "Nasdaq - Arthas",
+		["Aragaan - Antonidas"] = "Aragaan - Antonidas",
+		["Gommemode - Antonidas"] = "Gommemode - Antonidas",
+		["Luxor - Arthas"] = "Luxor - Arthas",
+		["Brennar - Antonidas"] = "Brennar - Antonidas",
+		["Aur - Antonidas"] = "Aur - Antonidas",
+		["Karibuh - Antonidas"] = "Karibuh - Antonidas",
+		["Kuumuu - Antonidas"] = "Kuumuu - Antonidas",
+		["Hammersbaldt - Antonidas"] = "Hammersbaldt - Antonidas",
+		["Kaneggi - Antonidas"] = "Kaneggi - Antonidas",
+		["Kaneggi - Arthas"] = "Kaneggi - Arthas",
+		["Sokubius - Antonidas"] = "Sokubius - Antonidas",
+		["Birnenmoose - Blackrock"] = "Birnenmoose - Blackrock",
+		["Platu - Arthas"] = "Platu - Arthas",
+		["Runkelbart - Antonidas"] = "Runkelbart - Antonidas",
+		["Coqqeritis - Blackrock"] = "Coqqeritis - Blackrock",
+		["Gebrechen - Arthas"] = "Gebrechen - Arthas",
+		["Muhsevelt - Blackrock"] = "Muhsevelt - Blackrock",
+		["Roffellolol - Antonidas"] = "Roffellolol - Antonidas",
+		["Gunnaro - Forscherliga"] = "Gunnaro - Forscherliga",
+		["Luxr - Antonidas"] = "Luxr - Antonidas",
+		["Rofflefotz - Antonidas"] = "Rofflefotz - Antonidas",
+		["Gottwalt - Arthas"] = "Gottwalt - Arthas",
+		["Staalberg - Antonidas"] = "Staalberg - Antonidas",
+		["Roffler - Antonidas"] = "Roffler - Antonidas",
+		["Omegaclap - Antonidas"] = "Omegaclap - Antonidas",
+	},
+	["profiles"] = {
+		["Roffler - Arthas"] = {
+		},
+		["Freggy - Blutkessel"] = {
+		},
+		["Aufsmaulwurf - Antonidas"] = {
+		},
+		["Unmuhralisch - Arthas"] = {
+		},
+		["Macher - Antonidas"] = {
+			["minimap"] = {
+				["minimapPos"] = 160.2531322225017,
+			},
+		},
+		["Námo - Antonidas"] = {
+			["minimap"] = {
+				["minimapPos"] = 138.9452185980026,
+			},
+		},
+		["Nuath - Antonidas"] = {
+			["minimap"] = {
+				["minimapPos"] = 338.5747871810488,
+			},
+		},
+		["Pakkutaq - Antonidas"] = {
+		},
+		["Jajajajaja - Antonidas"] = {
+		},
+		["Uor - Antonidas"] = {
+			["minimap"] = {
+				["minimapPos"] = 69.44395893819116,
+			},
+		},
+		["Aeflisehf - Antonidas"] = {
+		},
+		["Schneggsche - Antonidas"] = {
+		},
+		["Auur - Antonidas"] = {
+			["minimap"] = {
+				["minimapPos"] = 121.1223442548323,
+			},
+		},
+		["Olatius - The Venture Co"] = {
+		},
+		["Rumpelmann - Antonidas"] = {
+		},
+		["Alphons - Antonidas"] = {
+			["minimap"] = {
+				["minimapPos"] = 128.4677877359033,
+			},
+		},
+		["Naryaa - Antonidas"] = {
+		},
+		["Runkelbart - Arthas"] = {
+			["minimap"] = {
+				["minimapPos"] = 315.7941373475687,
+			},
+		},
+		["Uud - Antonidas"] = {
+		},
+		["Eorüwerüw - Antonidas"] = {
+		},
+		["Volaris - Arthas"] = {
+			["minimap"] = {
+				["minimapPos"] = 326.0549796423026,
+			},
+		},
+		["Aqqaluk - Antonidas"] = {
+		},
+		["Rumpellus - Die Aldor"] = {
+		},
+		["Gralsond - Antonidas"] = {
+		},
+		["Aethon - Arthas"] = {
+			["minimap"] = {
+				["minimapPos"] = 164.8459124680802,
+			},
+		},
+		["Nasdaq - Arthas"] = {
+		},
+		["Aragaan - Antonidas"] = {
+			["frame"] = {
+				["ofsx"] = -69.1662368774414,
+				["ofsy"] = 55.49991226196289,
+			},
+			["minimap"] = {
+				["minimapPos"] = 148.0477992002506,
+			},
+		},
+		["Gommemode - Antonidas"] = {
+			["minimap"] = {
+				["minimapPos"] = 88.40896356086148,
+			},
+		},
+		["Luxor - Arthas"] = {
+			["minimap"] = {
+				["minimapPos"] = 318.1388435939981,
+			},
+		},
+		["Brennar - Antonidas"] = {
+			["minimap"] = {
+				["minimapPos"] = 158.6490170130894,
+			},
+		},
+		["Aur - Antonidas"] = {
+		},
+		["Karibuh - Antonidas"] = {
+		},
+		["Kuumuu - Antonidas"] = {
+			["minimap"] = {
+				["minimapPos"] = 148.8406749533608,
+			},
+		},
+		["Hammersbaldt - Antonidas"] = {
+			["minimap"] = {
+				["minimapPos"] = 121.3669528718707,
+			},
+			["frame"] = {
+				["ofsx"] = -1.666897892951965,
+				["ofsy"] = -0.8334124684333801,
+			},
+		},
+		["Kaneggi - Antonidas"] = {
+		},
+		["Kaneggi - Arthas"] = {
+			["minimap"] = {
+				["minimapPos"] = 206.7788658048425,
+			},
+		},
+		["Sokubius - Antonidas"] = {
+		},
+		["Birnenmoose - Blackrock"] = {
+			["minimap"] = {
+				["minimapPos"] = 199.4216655314004,
+			},
+		},
+		["Platu - Arthas"] = {
+			["minimap"] = {
+				["minimapPos"] = 304.0950861472871,
+			},
+		},
+		["Runkelbart - Antonidas"] = {
+			["minimap"] = {
+				["minimapPos"] = 141.6486086274746,
+			},
+		},
+		["Coqqeritis - Blackrock"] = {
+		},
+		["Gebrechen - Arthas"] = {
+		},
+		["Muhsevelt - Blackrock"] = {
+			["minimap"] = {
+				["minimapPos"] = 133.45471056896,
+			},
+		},
+		["Roffellolol - Antonidas"] = {
+		},
+		["Gunnaro - Forscherliga"] = {
+		},
+		["Luxr - Antonidas"] = {
+		},
+		["Rofflefotz - Antonidas"] = {
+		},
+		["Gottwalt - Arthas"] = {
+			["frame"] = {
+				["ofsx"] = 180.9997253417969,
+				["ofsy"] = -54.99998474121094,
+				["point"] = "LEFT",
+				["relativePoint"] = "LEFT",
+			},
+			["minimap"] = {
+				["minimapPos"] = 305.7761510191117,
+			},
+		},
+		["Staalberg - Antonidas"] = {
+		},
+		["Roffler - Antonidas"] = {
+		},
+		["Omegaclap - Antonidas"] = {
+		},
+	},
+}
